@@ -1,0 +1,283 @@
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+ 
+
+         
+
+Course 
+Code 
+
+Course Name 
+
+ IT51 
+
+Software Engineering  
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+L 
+3 
+
+T 
+1 
+
+P 
+- 
+
+Credits Assigned 
+
+L 
+3 
+
+T 
+1 
+
+P 
+-- 
+
+Total 
+
+4 
+
+Examination Scheme 
+
+ISE  
+20 
+
+MSE 
+
+20 
+
+ESE 
+60 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+
+IT43: Database Management Systems 
+IT34: Object Oriented Programming 
+
+At the end of the course students will be able to 
+
+IT51.1 
+
+IT51.2 
+
+IT51.3 
+
+IT51.4 
+
+Analyze  requirements  and  choose  appropriate  process 
+model. 
+Design  system  models  with  respect  to  traditional  and  the 
+object oriented approach. 
+Develop  umbrella  activities  on  system  (RMMM,  SQA, 
+SCM). 
+Evaluate system design with test cases. 
+
+Topics 
+
+Ref.  Hrs. 
+
+Unit 
+No. 
+
+1.1 
+
+1.2 
+
+2.1 
+
+2.2 
+
+Course Outcomes 
+
+ 
+Module 
+
+No. 
+
+Module name 
+
+1 
+
+Introduction  
+
+System 
+Analysis  
+
+Software 
+Design  
+
+2 
+
+3 
+
+ 
+
+Software  Engineering  Process  Paradigms,  Process 
+Models – Incremental and Evolutionary models 
+Typical  Application 
+methodology, Process and Project Metrics 
+
+each  model,  Agile 
+
+for 
+
+System  Requirement,  Stakeholders,  Techniques  for 
+information gathering, Validating the requirements 
+
+Feasibility  Analysis,  Tests  for  feasibility,  Cost 
+Benefit  Analysis,  Feasibility  report.  The  system 
+Proposal 
+
+1,2,4 
+
+ 
+ 
+ 
+
+1,2,6 
+
+2.3  Data flow diagram and UML analysis diagrams 
+
+3.1 
+
+3.2 
+
+3.3 
+
+ Software  Design 
+Specification–  Abstraction, 
+Modularity– Effective modular design, Cohesion and 
+Coupling,    Example  of  code  for  cohesion  and 
+coupling  
+
+ User  Interface  Design  –  Human  Factors,  Interface 
+standards– User Interface Design Process 
+Application  Architecture  for  Information  System, 
+Deployment  using  UML  diagrams,  Component  and 
+deployment diagram for various architectures 
+
+1,2,7 
+
+3.4  Design Patterns – Gang of four patterns 
+
+2 
+
+2 
+
+2 
+
+2 
+
+9 
+
+3 
+
+2 
+
+2 
+
+2 
+
+4 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+ 
+
+4 
+
+SQA 
+
+5 
+
+Software 
+Testing  
+
+Software  estimation  –  Empirical  estimation 
+models – Cost/Effort estimation Planning – Work 
+breakdown  Structure,  Gantt  Chart.  Evaluate 
+schedule and cost variance 
+Risk  Management  Risk 
+Assessment, Risk Projection, RMMM 
+ Software  Configuration  Management,  SCM 
+process, version and change control 
+
+Identification,  Risk 
+
+4.1 
+
+4.2 
+
+4.3 
+
+4.4  Quality metrics   
+
+1,3 
+
+Software Testing Basic concept and terminology, 
+Verification  &  validation,  White  Box  Testing-, 
+Black  Box  Testing,    Integration,  Validation  and 
+system testing  
+OO  testing  methods-Class  Testing,  Interclass 
+testing, testing architecture, Behavioral testing 
+
+5.1 
+
+5.2 
+
+1,2,5 
+
+5 
+
+2 
+
+2 
+
+1 
+
+4 
+
+2 
+
+Total 
+
+42  
+
+ 
+ 
+ 
+Recommended Books: 
+ 
+1.  Roger Pressman, “Software Engineering: A Practitioners Approach”, 6thEdition, McGraw  
+     Hill, 2010. 
+2.  Ian Somerville, “Software Engineering”,9th  Edition,  Addison Wesley, 2011 
+3.  James F. Peters and WitoldPedrycz, “Software Engineering – An Engineering Approach”,  
+     Wiley, 2000.  
+4.  Rajib Mall, “Fundamentals of Software Engineering”, 4th Edition, PHI, 2014 
+5.  Pankaj Jalote “An Integrated Approach to Software Engineering”, 3rd Edition, Narosa 
+     Publication, 2005.   
+6.  James a. Senn, “Analysis and Design of Information Systems”, 2nd   Edition, McGrawHill,  
+     2009. 
+7.  Craig Larman, “Applying UML and Patterns: An Introduction to Object-Oriented Analysis  
+     and Design and Iterative Development ”, 3rd Edition, Pearson Education, 2005 
+ 

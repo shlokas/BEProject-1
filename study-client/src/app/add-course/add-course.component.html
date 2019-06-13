@@ -1,0 +1,91 @@
+<div class="container">
+  <br />
+  <h4>Add new Subject</h4>
+  <hr />
+  <br />
+
+  <form #newCourse="ngForm">
+    <label for="full_name">Subject Name</label>
+    <input
+      type="text"
+      class="form-control"
+      id="subject"
+      ngModel
+      required
+      name="subject"
+    />
+    <br />
+
+    <label for="full_name">Subject Code</label>
+    <input
+      type="text"
+      class="form-control"
+      id="subject_code"
+      ngModel
+      required
+      name="subject_code"
+    />
+  </form>
+
+  <!-- trial 1 -->
+
+  <!-- <div class="mainContainer">
+      <div class="content">
+        <div class="header">
+          <h1>Angular File Upload</h1>
+        </div>
+        <div class="row margin25">
+          <div class="col-md-4"></div>
+          <div class="col-md-4">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span
+                  class="input-group-text upload"
+                  (click)="upload()"
+                  id="btnUpload"
+                  >Upload</span
+                >
+              </div>
+              <div class="custom-file">
+                <form
+                  action="/api/upload"
+                  method="post"
+                  enctype="multipart/form-data"
+                >
+                  <input
+                    (change)="fileChange($event)"
+                    type="file"
+                    class="custom-file-input"
+                    id="inputGroupFile01"
+                    aria-describedby="inputGroupFileAddon01"
+                  />
+                </form>
+                <label class="custom-file-label" for="inputGroupFile01"
+                  >Choose file</label
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4"></div>
+        </div>
+      </div>
+    </div> -->
+
+  <!-- TRIAL 2 -->
+
+  <br />
+  <h6>Please upload the syllabus file as "SubjectCode.pdf"</h6>
+  <input
+    id="cin"
+    name="cin"
+    type="file"
+    class="btn"
+    (change)="fileChangeEvent($event)"
+    placeholder="Upload a file..."
+    multiple
+  />
+  <!-- button -->
+  <button type="button" class="btn btn-success btn-s" (click)="upload()">
+    <i class="glyphicon glyphicon-open-file"></i>&nbsp;Upload
+  </button>
+</div>

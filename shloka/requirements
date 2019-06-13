@@ -1,0 +1,10 @@
+sudo apt-get install tesseract-ocr
+sudo apt install libtesseract-dev
+pip install pillow
+pip install pytesseract
+
+pip install pypdf2
+sudo apt-get install -y python python-dev python-pip build-essential swig git libpulse-dev
+pip install pocketsphinx
+sudo apt-get install libasound2-dev
+pip install textract

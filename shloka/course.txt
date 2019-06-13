@@ -1,0 +1,9985 @@
+ 
+ 
+
+Bharatiya Vidya Bhavan’s 
+
+Sardar Patel Institute of Technology 
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Revision: SPIT-3-18 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Bachelor of Engineering/Technology (B.E./B.Tech) 
+
+in 
+
+Information Technology 
+
+(Program Code: UIT) 
+
+ 
+
+Third Year Engineering 
+
+(Sem. V and Sem. VI) 
+
+Effective from Academic Year 2018 -19 
+
+Board of Studies Approval:  
+
+13/12/2017 
+
+Academic Council Approval: 
+
+20/01/2018 
+
+Dr. Radha Shankarmani 
+Head of Department   
+
+Dr. Surendra Rathod   
+Dean Academics 
+  
+
+ 
+
+Dr. Prachi Gharpure 
+ 
+
+Principal 
+
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Scheme for B.E./B.Tech Information Technology  (SEM V/ SEM VI) 
+
+SEM V 
+
+Course Code 
+
+Course Name 
+
+Group 
+
+Teaching Scheme 
+
+Credits 
+
+(Hrs/week) 
+
+ 
+
+IT51 
+IT52 
+IT53 
+IT54 
+ITL51 
+ITL52 
+ITL53 
+ITL54 
+ITP55 
+MEC5^ 
+
+SDX 
+ABL3 
+CEP3 
+
+ 
+
+ 
+
+Software Engineering 
+Computer Networks 
+Advanced Database Systems 
+Theoretical Computer Science* 
+Software Engineering Lab 
+Computer Networks Lab 
+Advanced Database Systems Lab 
+Internet Technology Lab 
+Minor Project I  
+Mandatory Elective Course 
+MEC1:French Language  
+MEC2:German Language 
+SCOPE Course (Optional) 
+Technical Presentation Skill (Noncredit) 
+Problem solving module-II (Optional) 
+
+Total 
+
+SEM VI 
+
+ 
+
+PC 
+PC 
+PC 
+PC 
+PC 
+PC 
+PC 
+PC 
+PR 
+MC 
+
+SD 
+ABL 
+CEP 
+
+ 
+
+L 
+3 
+3 
+3 
+3 
+-- 
+-- 
+-- 
+-- 
+-- 
+2 
+
+-- 
+-- 
+-- 
+14 
+
+T 
+1 
+1 
+-- 
+1 
+-- 
+-- 
+-- 
+1 
+-- 
+-- 
+
+-- 
+-- 
+-- 
+4 
+
+P 
+-- 
+-- 
+-- 
+-- 
+2 
+2 
+2 
+2 
+2 
+-- 
+
+-- 
+-- 
+-- 
+10 
+
+Total 
+
+4 
+4 
+3 
+4 
+1 
+1 
+1 
+2 
+1 
+2 
+
+-- 
+-- 
+-- 
+23 
+
+Course Code 
+
+Course Name 
+
+Group 
+
+Teaching Scheme 
+
+Credits 
+
+(Hrs/week) 
+
+ 
+
+IT61 
+IT62 
+IT63 
+ITL61 
+ITL62 
+ITL63 
+ITL64 
+ITP65 
+HSS61 
+
+OE^ 
+MEC^ 
+
+SDX 
+ABL4 
+
+CEP4 
+
+ 
+
+ 
+
+Distributed Systems   
+Data Warehousing and Mining  
+Information and Network security 
+Distributed Systems  Lab 
+Data Warehousing and Mining Lab 
+Information and Network security Lab 
+Machine Learning Lab 
+Minor Project II 
+Advance Communicative English 
+Open Elective  
+Mandatory Elective Course 
+MEC3:Industrial and Organizational 
+Psychology 
+MEC4: Law for Engineers 
+SCOPE Course  (Optional) 
+Technical Paper and Patent Drafting 
+(Noncredit) 
+Problem solving module-III (Optional) 
+
+Total 
+
+ 
+
+PC 
+PC 
+PC 
+PC 
+PC 
+PC 
+PC 
+PR 
+HSS  
+OE 
+MEC 
+
+SD 
+ABL 
+
+CEP 
+
+ 
+
+L 
+3 
+3 
+3 
+-- 
+-- 
+-- 
+-- 
+-- 
+2 
+
+1@ 
+
+2 
+
+-- 
+-- 
+
+-- 
+
+13+1@ 
+
+T 
+-- 
+1 
+1 
+-- 
+-- 
+-- 
+1 
+-- 
+2 
+-- 
+-- 
+
+-- 
+-- 
+
+-- 
+5 
+
+P 
+-- 
+-- 
+-- 
+2 
+2 
+2 
+2 
+2 
+-- 
+2@ 
+-- 
+
+-- 
+-- 
+
+-- 
+
+Total 
+
+3 
+4 
+4 
+1 
+1 
+1 
+2 
+1 
+3 
+
+2@ 
+
+2 
+
+-- 
+-- 
+
+-- 
+
+10+2@ 
+
+22+2@ 
+
+* Common to Computer  Engineering Department 
+@OE1: Consumer Electronics (ETRX) 
+OE2: Robotic Vision (ETRX) 
+OE3: Cyber Security and Digital Forensics (EXTC)  OE7:Software Testing (IT) 
+OE4: Internet of Things (EXTC) 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+OE5:Fundamentals of Computational Intelligence (COMP) 
+OE6: Fundamentals of  Data Structures and Algorithms (COMP) 
+
+OE8:Database Management Systems (IT) 
+
+ 
+
+1 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Evaluation Scheme 
+
+ 
+
+B.E./B.Tech Information Technology (SEM V) 
+
+Course Name 
+
+Course 
+Code 
+IT51 
+IT52 
+IT53 
+IT54 
+ITL51 
+ITL52 
+ITL53 
+ITL54 
+ITP55 
+MEC5^  Mandatory Elective Course 
+
+Software Engineering 
+Computer Networks 
+Advanced Database Systems 
+Theoretical Computer Science* 
+Software Engineering Lab 
+Computer Networks Lab 
+Advanced Database Systems Lab 
+Internet Technology Lab 
+Minor Project I  
+
+MEC1:French Language  
+MEC2:German Language 
+Technical Presentation Skill (Noncredit) 
+
+Total 
+
+ISE 
+20 
+20 
+20 
+20 
+40 
+40 
+40 
+40 
+40& 
+ISE1= 
+
+20 
+
+Marks  
+
+ESE 
+60 
+60 
+60 
+60 
+-- 
+-- 
+-- 
+-- 
+20 
+
+MSE 
+
+20 
+20 
+20 
+20 
+-- 
+-- 
+-- 
+-- 
+-- 
+
+ISE2= 
+
+Attendance= 
+
+20 
+
+10 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ABL3 
+
+ 
+
+Course 
+Code 
+IT61 
+IT62 
+IT63 
+ITL61 
+ITL62 
+ITL63 
+ITL64 
+ITP65 
+HSS61 
+
+OE^ 
+MEC^ 
+
+ABL4 
+
+ 
+
+B.E./B.Tech Information Technology (SEM VI) 
+Course Name 
+
+Marks  
+
+Distributed Systems   
+Data Warehousing and Mining  
+Information and Network security 
+Distributed Systems  Lab 
+Data Warehousing and Mining Lab 
+Information and Network security Lab 
+Machine Learning Lab 
+Minor Project II 
+Advance Communicative English 
+Open Elective  
+Mandatory Elective Course 
+MEC3:Industrial and Organizational Psychology 
+MEC4: Law for Engineers 
+Technical Paper and Patent Drafting (Noncredit) 
+
+Total 
+
+ISE 
+20 
+20 
+20 
+40 
+40 
+40 
+40 
+40& 
+100 
+40 
+
+MSE 
+
+20 
+20 
+20 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+10 
+
+ESE 
+60 
+60 
+60 
+-- 
+-- 
+-- 
+-- 
+20 
+-- 
+20 
+
+ISE1= 
+
+ISE2= 
+
+Attendance= 
+
+20 
+
+-- 
+ 
+
+20 
+
+-- 
+
+ 
+
+10 
+
+-- 
+ 
+
+Total 
+100 
+100 
+100 
+100 
+40 
+40 
+40 
+40 
+60 
+50 
+
+ 
+
+670 
+
+Total 
+100 
+100 
+100 
+40 
+40 
+40 
+40 
+60 
+100 
+70 
+50 
+
+-- 
+740 
+
+ 
+@OE1: Consumer Electronics (ETRX) 
+OE2: Robotic Vision (ETRX) 
+OE3: Cyber Security and Digital Forensics (EXTC)  OE7:Software Testing (IT) 
+OE4: Internet of Things (EXTC) 
+ 
+
+ 
+
+OE8:Database Management Systems (IT) 
+
+ 
+
+ 
+
+ 
+               OE6:Fundamentals of  Data Structures and Algorithms (COMP) 
+
+OE5:Fundamentals of Computational Intelligence (COMP) 
+
+& Phase-I:20  Phase-II:20 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Semester V 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+ 
+
+         
+
+Course 
+Code 
+
+Course Name 
+
+ IT51 
+
+Software Engineering  
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+L 
+3 
+
+T 
+1 
+
+P 
+- 
+
+Credits Assigned 
+
+L 
+3 
+
+T 
+1 
+
+P 
+-- 
+
+Total 
+
+4 
+
+Examination Scheme 
+
+ISE  
+20 
+
+MSE 
+
+20 
+
+ESE 
+60 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+
+IT43: Database Management Systems 
+IT34: Object Oriented Programming 
+
+At the end of the course students will be able to 
+
+IT51.1 
+
+IT51.2 
+
+IT51.3 
+
+IT51.4 
+
+Analyze  requirements  and  choose  appropriate  process 
+model. 
+Design  system  models  with  respect  to  traditional  and  the 
+object oriented approach. 
+Develop  umbrella  activities  on  system  (RMMM,  SQA, 
+SCM). 
+Evaluate system design with test cases. 
+
+Topics 
+
+Ref.  Hrs. 
+
+Unit 
+No. 
+
+1.1 
+
+1.2 
+
+2.1 
+
+2.2 
+
+Course Outcomes 
+
+ 
+Module 
+
+No. 
+
+Module name 
+
+1 
+
+Introduction  
+
+System 
+Analysis  
+
+Software 
+Design  
+
+2 
+
+3 
+
+ 
+
+Software  Engineering  Process  Paradigms,  Process 
+Models – Incremental and Evolutionary models 
+Typical  Application 
+methodology, Process and Project Metrics 
+
+each  model,  Agile 
+
+for 
+
+System  Requirement,  Stakeholders,  Techniques  for 
+information gathering, Validating the requirements 
+
+Feasibility  Analysis,  Tests  for  feasibility,  Cost 
+Benefit  Analysis,  Feasibility  report.  The  system 
+Proposal 
+
+1,2,4 
+
+ 
+ 
+ 
+
+1,2,6 
+
+2.3  Data flow diagram and UML analysis diagrams 
+
+3.1 
+
+3.2 
+
+3.3 
+
+ Software  Design 
+Specification–  Abstraction, 
+Modularity– Effective modular design, Cohesion and 
+Coupling,    Example  of  code  for  cohesion  and 
+coupling  
+
+ User  Interface  Design  –  Human  Factors,  Interface 
+standards– User Interface Design Process 
+Application  Architecture  for  Information  System, 
+Deployment  using  UML  diagrams,  Component  and 
+deployment diagram for various architectures 
+
+1,2,7 
+
+3.4  Design Patterns – Gang of four patterns 
+
+2 
+
+2 
+
+2 
+
+2 
+
+9 
+
+3 
+
+2 
+
+2 
+
+2 
+
+4 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+ 
+
+4 
+
+SQA 
+
+5 
+
+Software 
+Testing  
+
+Software  estimation  –  Empirical  estimation 
+models – Cost/Effort estimation Planning – Work 
+breakdown  Structure,  Gantt  Chart.  Evaluate 
+schedule and cost variance 
+Risk  Management  Risk 
+Assessment, Risk Projection, RMMM 
+ Software  Configuration  Management,  SCM 
+process, version and change control 
+
+Identification,  Risk 
+
+4.1 
+
+4.2 
+
+4.3 
+
+4.4  Quality metrics   
+
+1,3 
+
+Software Testing Basic concept and terminology, 
+Verification  &  validation,  White  Box  Testing-, 
+Black  Box  Testing,    Integration,  Validation  and 
+system testing  
+OO  testing  methods-Class  Testing,  Interclass 
+testing, testing architecture, Behavioral testing 
+
+5.1 
+
+5.2 
+
+1,2,5 
+
+5 
+
+2 
+
+2 
+
+1 
+
+4 
+
+2 
+
+Total 
+
+42  
+
+ 
+ 
+ 
+Recommended Books: 
+ 
+1.  Roger Pressman, “Software Engineering: A Practitioners Approach”, 6thEdition, McGraw  
+     Hill, 2010. 
+2.  Ian Somerville, “Software Engineering”,9th  Edition,  Addison Wesley, 2011 
+3.  James F. Peters and WitoldPedrycz, “Software Engineering – An Engineering Approach”,  
+     Wiley, 2000.  
+4.  Rajib Mall, “Fundamentals of Software Engineering”, 4th Edition, PHI, 2014 
+5.  Pankaj Jalote “An Integrated Approach to Software Engineering”, 3rd Edition, Narosa 
+     Publication, 2005.   
+6.  James a. Senn, “Analysis and Design of Information Systems”, 2nd   Edition, McGrawHill,  
+     2009. 
+7.  Craig Larman, “Applying UML and Patterns: An Introduction to Object-Oriented Analysis  
+     and Design and Iterative Development ”, 3rd Edition, Pearson Education, 2005 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+ 
+
+ 
+
+Course 
+Code 
+
+L 
+3 
+
+T 
+1 
+
+ISE  
+20 
+
+L 
+3 
+
+T 
+1 
+
+P 
+- 
+Examination Scheme 
+ESE 
+60 
+
+MSE 
+
+20 
+
+P 
+-- 
+
+Total 
+
+4 
+
+Total 
+100 
+
+ IT52 
+
+Computer Networks  
+
+ 
+Pre-requisite Course Codes 
+At the end of the course students will be able to 
+
+ITL36: Open Source Operating Systems Lab 
+
+Course Outcomes 
+
+ 
+Module 
+
+No. 
+
+Module name 
+
+1 
+
+OSI reference 
+
+model and 
+
+network 
+
+architecture 
+
+Unit 
+No. 
+
+1.1 
+
+1.2 
+
+1.3 
+
+IT52.1 
+
+IT52.2 
+IT52.3 
+IT52.4 
+
+Explain the process of communication in computer 
+network. 
+Simulate the computer network. 
+Design the  subnet for the given ip address. 
+Illustrate the protocols of TCP/IP. 
+
+Topics 
+
+Ref.  Hrs. 
+
+Types  of  communication  (simplex,  half  duplex, 
+full  duplex), 
+types  of  connections,  network 
+topology types 
+Types of networks: peer to peer and client server 
+hardware- 
+networks, 
+network 
+transmission 
+technology-broadcast 
+links  and  point-to-point 
+links and scale–PAN, LAN, MAN, WAN, Internet  
+Network software: protocol hierarchies, protocol, 
+peers,  interface,  network  architecture,  protocol 
+stack,  Connection  oriented  and  connectionless 
+services, service primitives 
+
+1,2,3 
+
+1,2,3 
+
+1,2,3 
+
+1 
+
+2 
+
+1 
+
+2 
+1 
+2 
+
+1 
+
+1 
+2 
+
+2 
+
+1 
+
+6 
+
+2 
+
+Physical layer 
+
+1.4  Reference model: OSI,TCP/IP 
+2.1  Guided Transmission Media 
+2.2  Unguided transmission media 
+
+3.1 
+
+Services  provided  by  Data  link  layer  to  network 
+layer, Framing 
+
+3.2  Error detection – checksum, parity CRC 
+3.3  Error correction: hamming codes 
+
+3.4 
+
+Flow  control-  elementary  data  link  protocols, 
+Sliding window protocols 
+
+3.5  HDLC- high level data link control protocol 
+
+ 
+
+3 
+
+Data link  
+
+layer 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+ 
+
+4 
+
+5 
+
+6 
+
+ 
+7 
+
+Medium 
+
+Access Sub 
+
+layer 
+
+Network 
+
+layer 
+
+Transport 
+
+layer 
+
+4.1 
+
+4.2 
+
+4.3 
+
+4.4 
+
+5.1 
+
+5.2 
+
+5.3 
+
+6.1 
+
+6.2 
+
+6.3 
+
+6.4 
+
+system,  CSMA–                
+
+access  Aloha 
+
+The  Channel  Allocation  Problem,  Multiple 
+Access Protocols 
+Multiple 
+CSMA/CD,CSMA/CA 
+Controlled  access  –  reservation  system,  polling, 
+token passing 
+Channelization–FDMA,TDMA,CDMA  
+Traditional Etheet- frame, addressing 
+IPV4  addresses  –  address  space,  notations, 
+classful, classless addressing 
+Need 
+fragmentation 
+Routing table: Static, Dynamic,  
+Routing protocol: Intradomain – Distance vector-
+RIP,link  state-OSPF,  interdomain  –  path  vector-
+BGP. 
+
+ipv4  datagram, 
+
+for  network 
+
+layer, 
+
+1,2,3 
+
+1,2,3 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+4 
+
+Process 
+paradigm, 
+connection less vs connection oriented service. 
+
+to  process  delivery-  client  server 
+demultiplexing, 
+
+multiplexing, 
+
+user 
+
+UDP: 
+operation: 
+connectionless  services,  flow  and  error  control, 
+encapsulation and decapsulation, queuing. 
+
+datagram,  UDP 
+
+services:  process 
+
+TCP:  TCP 
+to  process 
+communication,  stream  delivery  service,  sending 
+and  receiving  buffers,  segments,  full  duplex 
+communication. 
+
+features: 
+
+sequence 
+
+and 
+TCP 
+acknowledgement  number,TCP  segment,  TCP 
+connection, 
+flow 
+control, 
+congestion control. 
+
+numbers 
+
+control, 
+
+error 
+
+1,2,3 
+
+2 
+
+1,2,3 
+
+2 
+
+1,2,3 
+
+2 
+
+1,2,3 
+
+2 
+
+1,2,3 
+
+1,2,3 
+
+2 
+
+1 
+
+Total 
+
+42  
+
+Application 
+
+7.1  TELNET 
+
+layer: 
+Remote 
+logging 
+
+7.2 
+
+FTP 
+
+ 
+Recommended Books: 
+1.  B. F. Ferouzan, “Data and Computer Communication”, 4th Edition, Tata McGraw Hill, 2010. 
+2.  S. Tanenbaum, “Computer Networks”, 4th Edition, Prentice Hall, 2012. 
+3.  William Stallings, “Data and Computer Communication”, 10thEdition, 2014. 
+
+ 
+
+7 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+ 
+ 
+ 
+
+Course 
+Code 
+
+ IT53 
+
+Advanced Database 
+
+Systems 
+
+L 
+3 
+
+T 
+- 
+
+ISE  
+20 
+
+L 
+3 
+
+P 
+- 
+Examination Scheme 
+
+T 
+-- 
+
+Theory Marks 
+MSE 
+
+ESE 
+60 
+
+20 
+
+P 
+-- 
+
+Total 
+
+3 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+At the end of the course students will be able to 
+
+IT43: Database Management Systems 
+
+         Course Outcomes 
+
+IT53.1 
+IT53.2 
+
+IT53.3 
+ 
+IT53.4 
+
+Design parallel, distributed, Object oriented database 
+Demonstrate the optimized query processing and indexing 
+over  the database 
+Design  the  integration  of  database  schemas  using  XML 
+technology 
+Explore Advanced Data management Techniques 
+
+ 
+Module 
+
+No. 
+
+1 
+
+2 
+
+3 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Module name  Unit 
+No. 
+1.1  Basic Concepts, Ordered Indices 
+1.2  B-Tree Index Files, B+-Tree Index Files 
+
+Indexing  in 
+
+Database 
+
+Topics 
+
+ 
+
+ 
+
+Object and 
+
+2.1 
+
+Object 
+
+Relational 
+Databases 
+
+Concept and 
+Overview of 
+Parallel and 
+Distributed 
+
+Database 
+
+system 
+
+Distributed 
+
+Database 
+
+Design 
+
+  2.2 
+
+3.1 
+
+3.2 
+
+Concepts  for  Object  Databases:  Object  Identity, 
+Object structure, Type Constructors 
+
+Complex  Objects,  ODMG  Model,  ODL,  OQL, 
+Object  Relational  features  in  SQL  /  Oracle,  Case 
+Studies 
+Architectures  for  parallel  database,  Parallel  query 
+Evaluation,  Parallelizing 
+individual  operation, 
+Parallel Query Optimization, Distributed Database 
+System    (DDBS),    Architectures,  Features    of 
+DDBS,    Design    issue    in    DDBS,  Advantages, 
+disadvantages,  transparencies  in  DDBMS,  three 
+tier architecture  case study 
+Distributed database Design concepts, objective of 
+data  distribution,  Data  Fragmentation, 
+the 
+allocation of Fragments, replication 
+
+Ref.  Hrs. 
+
+1 
+
+1,2 
+
+3,6 
+
+2 
+2 
+
+2 
+
+2 
+
+5 
+
+5 
+
+8 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+4 
+
+5 
+
+6 
+
+Distributed 
+concurrency 
+control and 
+
+Recovery 
+
+Query 
+
+ 
+
+Processing in 
+Distributed 
+
+database 
+
+ 
+
+XML 
+
+Databases 
+
+NOSQL And 
+
+Graph 
+
+Databases 
+
+ 
+
+Advanced 
+
+Data 
+
+Management 
+
+technique 
+
+3.3 
+
+3.4 
+
+4.1 
+
+4.2 
+
+5.1 
+
+5.2 
+
+6.1 
+
+6.2 
+
+Locking-Based  Concurrency  Control  Algorithms, 
+Introduction  to  distributed  deadlock,  Deadlock 
+avoidance,  prevention,  detection  and  recovery,  2 
+phase and 3 phase commit protocol 
+ 
+Characterization  of  Query  Processors,  Layers  of 
+Query Processing, Query Decomposition and Data 
+Localization 
+
+ 
+
+XML  Databases:  XML-Related  Technologies, 
+XML Schema 
+XML  Query  Languages, 
+Databases, XML and SQL 
+No SQL, Weaknesses of the Relational Data 
+Model, Inadequate Representation of Data, 
+Semantic Overloading, Weaknesses of RDBMSs 
+
+  Storing  XML 
+
+in 
+
+Graph database: Graphs and Graph Structures, The 
+Property Graph Model, Storing Property Graphs in 
+Relational  Tables,  Advanced  Graph  Models, 
+Neo4J, HyperGraphDB 
+Overview of Advanced Database models : Mobile 
+databases, Temporal databases, Spatial databases 
+Overview  of    Multimedia  Databases  :  Image 
+Databases, Video Databases, Audio Databases 
+
+1,2.6 
+
+6 
+
+4,5 
+
+5 
+
+4 
+
+2 
+
+2 
+
+2 
+
+4 
+
+2 
+
+3 
+
+Total 
+
+42  
+
+ 
+Recommended Books: 
+ 
+1.  Henry F Korth, Abraham Silberschatz and S. Sudharshan, “Database System Concepts”,  
+     6thEdition, McGraw Hill, 2011. 
+2.  R. Elmasri, S.B. Navathe, “Fundamentals of Database Systems”, 5thEdition, Pearson  
+     Education/Addison Wesley, 2007. 
+3.  M. Tamer Ozsu, Patrick Valduriez, “Principles of Distributed Database”, Pearson Education,  
+     India,2011. 
+4.  Subramaniam, “Principles of Multimedia Database Systems”, Morgan Kauffman Publishers,  
+     2008. 
+5.  Carlo Zanalio, StefenoCeri, Christo Faloutsos, V. S. Subrahmanaian, Roborto Zicari,  
+     Richard T. Snodgrass, “Advanced Database Systems”, Morgan Kaufmann Publishers, Inc. San  
+     Fransico. 
+6.  Lena Wiese “Advanced Data Management: For Sql, Nosql, Cloud And Distributed Databases”,         
+     De Gruyter, 2015 
+
+9 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+IT54 
+
+Theoretical Computer 
+
+Science* 
+
+L 
+3 
+
+T 
+1 
+
+ISE  
+20 
+
+T 
+1 
+
+L 
+3 
+
+P 
+- 
+Examination Scheme 
+ESE 
+60 
+
+MSE 
+
+20 
+
+P 
+-- 
+
+Total 
+
+4 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+
+IT33: Discrete Structures  
+
+At the end of the course students will be able to 
+
+Course Outcomes 
+
+IT54.1 
+IT54.2 
+IT54.3 
+
+IT54.4 
+
+Design finite automaton for a regular languages. 
+Identify regular and non regular languages. 
+Construct  the  grammar  for  a  language  and  convert  it 
+into normal forms. 
+Design  pushdown  automata  and  Turing  machine  for  a 
+language. 
+
+ 
+ 
+ 
+
+Course 
+Code 
+
+ 
+Module 
+
+No. 
+
+1 
+
+2 
+
+Topics 
+
+Sets, Relations 
+and Languages 
+
+Module name  Unit 
+No. 
+1.1  Relations and functions 
+1.2  Alphabets and languages 
+1.3  Types of proof 
+2.1  Regular languages and regular expressions 
+2.2  Finite Automata 
+2.3  Nondeterministic Finite Automata 
+
+Ref.  Hrs. 
+
+2,3,4 
+
+Finite 
+
+Automata 
+
+2.4 
+
+Nondeterministic  Finite  Automata  with  ϵ -
+transitions 
+
+1,3,5 
+
+     3 
+
+Regular 
+language 
+
+2.5  Kleene‟s  theorem 
+2.6  NFA to DFA Conversion 
+
+3.1 
+
+The  pumping  lemma  for  regular  languages, 
+Applications of the pumping lemma 
+
+3.2  Closure properties for regular languages 
+
+3.3 
+
+Equivalence  and  minimization  of  automata: 
+Testing  equivalence  of  states,  Minimization  of 
+DFA‟s 
+
+1,4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+1 
+1 
+1 
+2 
+1 
+
+1 
+
+1 
+1 
+2 
+ 
+1 
+
+3 
+
+10 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+4.1 
+
+Context free 
+
+4 
+
+grammars and 
+
+4.2 
+
+languages 
+
+5 
+
+Pushdown 
+automata 
+
+Normal forms 
+for context free 
+
+grammars 
+
+Introduction to 
+
+Turing 
+
+Machines 
+
+6 
+
+7 
+
+8 
+
+in 
+
+and 
+
+grammars 
+
+Context  free  grammars:  Definition  of  context 
+free  grammars,  Derivations  using  a  grammar, 
+The language of a grammar, Sentential forms 
+Parse  trees:  Constructing  parse  trees,  From 
+inferences  to  trees,  From  trees  to  derivations, 
+From derivations to recursive inferences 
+Ambiguity 
+languages: 
+Ambiguous  grammars,  Removing  ambiguity 
+from grammars 
+Definition  of  the  pushdown  automaton:  The 
+formal  definition  of  pushdown  automata,  A 
+graphical  notation  for  PDA‟s,  Instantaneous 
+descriptions of a PDA 
+The  languages  of  a  PDA:  Acceptance  by  final 
+state,  Acceptance  by  empty  stack,  From  empty 
+stack  to  final  state,  From  final  state  to  empty 
+stack 
+Equivalence  of  PDA‟s  and  CFG‟s:  From 
+grammars  to  pushdown  automata,  From  PDA‟s 
+to Grammar 
+
+Deterministic pushdown automata: Definition of 
+a  deterministic  PDA,  Regular  languages  and 
+deterministic  PDA‟s,  DPDA‟s  and  context  free 
+languages 
+ Eliminating  useless  symbols,  Computing  the 
+generating  and  reachable  symbols,  Chomsky 
+normal form, Greibach normal form 
+The Pumping lemma for context free languages: 
+Applications of the pumping lemma for CFL‟s 
+
+Turing  machines:  Formal  definition  of  a  Turing 
+machine, Examples of Turing machines 
+Halting  Problem,  Post  Correspondence  Problem 
+(PCP) 
+
+Variants  of  Turing  machines:  Multitape  Turing 
+Machines 
+
+4.3 
+
+5.1 
+
+5.2 
+
+5.3 
+
+5.4 
+
+6.1 
+
+6.2 
+
+7.1 
+
+7.2 
+
+7.3 
+
+1 
+
+1,5 
+
+2 
+
+2 
+
+1 
+
+2 
+
+2 
+
+1 
+
+3 
+
+2 
+
+2 
+
+2 
+
+1 
+
+1 
+1 
+1 
+
+11 
+
+1, 2 
+
+1,2,3 
+
+1,2 
+
+3 
+
+Recursively 
+Enumerable 
+
+7.4  Church-Turing hypothesis 
+8.1  Recursively Enumerable and recursive 
+8.2  Enumerating a language 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+languages 
+
+8.3 
+
+Context  sensitive  languages  and  the  Chomsky 
+hierarchy 
+
+2 
+
+Total 
+
+42 
+
+ 
+
+ 
+ 
+Recommended Books: 
+ 
+1.  John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman, “Introduction to Automata Theory,  
+     Languages and Computation”, 3rd  Edition, Pearson, 2008.  
+2.  Michael  Sipser, “Introduction to the Theory of computation”, 3rd Edition, Cengage Learning  
+     Publication, 2013. 
+3.  John C. Martin, “Introduction to Languages and the Theory of Computation”,4th Edition,  
+     McGraw-Hill Publications, 2010. 
+4.  Harry Lewis, Christos H. Papadimitriou, “Elements of the Theory of Computation”, 2nd 
+     Edition, Pearson, 1998.  
+5.  Dexter C. Kozen, “Automata and Computability”, Springer Verlag Publications, 1997. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ITL51 
+
+Software Engineering Lab 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+Examination Scheme 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+40 
+
+ 
+ 
+Pre-requisite Course Codes 
+
+IT43: Database Management Systems 
+IT34: Object Oriented Programming 
+
+At the end of the lab students will be able to 
+
+ITL51.1  Create software requirements specification (SRS) document. 
+
+ITL51.2  Construct data flow diagram (DFD) and UML diagrams for the case 
+
+study. 
+
+Course Outcomes 
+
+ITL51.3  Create work breakdown  structure  and schedule the activities using 
+
+Gantt chart. 
+
+ITL51.4  Develop Risk Mitigation, Monitoring and Management Plan. 
+
+ITL51.5  Design test cases for a given case study. 
+
+ITL51.6 
+
+Illustrate version of software using version control tool. 
+
+ 
+ 
+Exp. No. 
+
+1 
+
+2 
+
+3 
+
+4 
+5 
+
+6 
+
+7 
+
+8 
+
+Gather requirements and prepare SRS document. 
+
+Suggested List of Experiments 
+
+Create Context level diagram and DFD up to 2 levels. 
+
+ Draw use case diagram and class diagram. Prepare UC specification 
+document. 
+Prepare component and deploy according to the prescribed architecture. 
+Plan for development of software using Gantt chart. 
+
+Prepare test cases for all the scenarios taken in sequence diagram in 
+Exp.3. 
+Identify risk, assess impact and assign priority Prepare RMMM plan for 
+highest priority risk. 
+Create versions of software using version control tool. 
+
+ 
+Experiments 1-5 to be done based on the case study. 
+ 
+ 
+
+ 
+
+Ref.  Marks 
+1,5 
+
+5 
+
+1,2,5 
+
+3,4 
+
+3,4 
+1,2,5 
+
+1,2,5 
+
+5 
+
+5 
+
+5 
+
+5 
+5 
+
+5 
+
+5 
+
+1,2,5 
+Total 
+
+5 
+40 
+
+13 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+ 
+Recommended Books: 
+ 
+1.  James a. Senn, “Analysis and Design of Information Systems”, 2nd Edition, McGrawHill,  
+     2009. 
+2.  Ali Behforooz Fredrick Hudson, “Software Engineering Fundamentals”, Oxford University  
+     Press, 2006. 
+3.  James Rumbaugh, Ivar Jacobson, GraddyBooch, “The unified modeling language Reference  
+     manual”,  2ndEdition, Addison Wesley, 2004. 
+4.  James Rumbaugh, Ivar Jacobson, GraddyBooch “The unified modeling language User  
+     manual”,  2ndEdition, Addison Wesley, 2000. 
+5.  Roger Pressman, “Software Engineering: A Practitioners Approach”, 6th Edition, McGraw  
+     Hill, 2010. 
+ 
+ 
+
+ 
+
+ 
+
+14 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+ 
+ 
+     ITL52 
+
+Course Name 
+
+ 
+ 
+
+Computer Networks Lab 
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+Examination Scheme 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+At the end of the Lab course students will be able to 
+
+ITL36: Open Source Operating Systems Lab 
+
+Course Outcomes 
+
+ 
+Exp. No. 
+
+Illustrate topology. 
+
+ITL52.1 
+ITL52.2  Test various protocol for given scenario. 
+ITL52.3  Build VLAN. 
+ITL52.4  Experiment application layer protocol. 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+8 
+
+Write a tcl script for network simulation using ns2.  
+
+Create network topologies using ns2. 
+Implement socket programming. 
+
+Simulate MAC protocol (Stop and Wait Protocol, Sliding Window 
+Protocol) using ns2 simulator for the given scenario. 
+
+Write  a  C/C++  program  for  the  simulation  of  Cyclic  Redundancy 
+Check and Hamming codes for the given scenario. 
+
+Simulation  of  routing  protocol  (Link  state  routing  protocol/ 
+Distance vector routing protocol). 
+Create VLAN for the given scenario. 
+To setup FTP server on Ubuntu. 
+
+1,2,3 
+
+1,2,3 
+1,2,3 
+
+1,2,3 
+
+1,2,3 
+
+1,2,3 
+
+1,2,3 
+1,2,3 
+
+5 
+
+5 
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+5 
+
+Total  
+
+40 
+
+ 
+Recommended Books: 
+ 
+1.  B. F. Ferouzan, “Data and Computer Communication”, 4th Edition, Tata McGraw Hill,2010. 
+2.  S. Tanenbaum, “Computer Networks”, 4th edition, Prentice Hall, 2012. 
+3.  William Stallings, “Data and Computer Communication”, 10thEdition, 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Course 
+
+Course Name 
+
+Teaching Scheme 
+
+Credits Assigned 
+
+15 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Code 
+
+(Hrs/week) 
+
+ 
+ 
+
+ITL53 
+
+Advanced Database Systems Lab 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+Examination Scheme 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+At the end of the lab students will be able to 
+
+IT43: Database Management System 
+
+Course 
+
+Outcomes 
+
+ITL53.1 
+ITL53.2 
+
+ITL53.3 
+ITL53.4 
+
+Design Parallel, Distributed and Object Oriented database. 
+Analyze the effect of indexing, query processing and optimization over 
+the database 
+Demonstrate working of Cloud and Multimedia Databases. 
+Design the integration of database schemas using XML technology. 
+
+Exp. No. 
+
+Suggested List of Experiments 
+
+1 
+
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Create an index on a database and Analyze the effect of indexing over 
+the database for different operation on it. 
+Create an Object relational database and query the same. 
+Design a distributed database by applying the concept of fragmentation. 
+Demonstrate the concept of the 2-phase commit protocol. 
+Demonstrate the concept of deadlock in distributed systems. 
+Design an XML schema for the given scenario and query the same. 
+Demonstration of Cloud Database. 
+Demonstration of Multimedia database. 
+
+Ref.  Marks 
+1,2 
+
+5 
+
+1,2 
+4,5 
+4,5 
+4,5 
+1,2 
+6,7 
+3 
+
+Total 
+
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+40 
+
+Experiments 1-6 to be done based on the case study and scenario.  
+
+ 
+
+ 
+
+Recommended Books: 
+
+ 
+
+1.  Henry F Korth, Abraham Silberschatz and S. Sudharshan, “Database System Concepts”,  
+     6thEdition, McGraw Hill, 2011. 
+2.  R. Elmasri, S.B. Navathe, “Fundamentals of Database Systems”, 5thEdition, Pearson  
+     Education/Addison Wesley, 2007. 
+3.  Subramaniam, “Principles of Multimedia Database Systems”, Morgan Kauffman Publishers,  
+     2008. 
+4.  M. Tamer Ozsu, Patrick Valduriez, “Principles of Distributed Database Systems” (Pearson  
+     Publication). 
+5.  Saeed K Rahimi, Frank SHaug, “Distributed Database Management Systems – A Practical  
+     Approach” (Wiley Publication). 
+6.  Carlo Zanalio, StefenoCeri, Christo Faloutsos, V. S. Subrahmanaian,  RobortoZicari. 
+     Richard T. Snodgrass, “Advanced Database Systems”, Morgan Kaufmann Publishers,Inc.  
+     San Fransico. 
+7.  Lena Wiese “Advanced Data Management: For Sql, Nosql, Cloud And Distributed Databases”,       
+     De Gruyter,2015 
+ 
+
+16 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+ITL54 
+
+Internet 
+
+Technology Lab 
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+
+L 
+-- 
+
+T 
+1 
+
+P 
+2 
+
+Credits Assigned 
+
+L 
+-- 
+Examination Scheme 
+
+T 
+1 
+
+P 
+1 
+
+Total 
+
+2 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+
+IT45: Web Technology 
+
+At the end of the lab students will be able to 
+
+ITL54.1  Demonstrate the use of web engineering concepts such 
+as  class  diagram,  data  flow  diagram,  requirement 
+specification. 
+
+ITL54.2  Create  web  mashups  of  REST  based  web  services 
+
+Course Outcomes 
+
+using AJAX, JSON. 
+
+ITL54.3 
+
+Implement  security  features  in  web  project  using 
+JSON Webtokens/ Auth2.0. 
+
+ITL54.4  Test the deployment of web project. 
+
+Topics 
+
+Ref. 
+
+Hrs. 
+
+Introduction:  Web  Engineering,  Motivation,  Categories  of  Web 
+Applications, Web Applications Characteristics. Evolution and 
+Need for Web Engineering, Web Engineering Models. 
+Rich Internet Application:  XML, JSON. 
+
+Rich Internet Application:  AJAX, Web mashup. 
+
+Rich Internet Application: Web service – REST, SOAP. 
+
+Security in web application: JSON Webtokens, Auth2.0, OAuth. 
+
+Introduction to search engine: Web Crawlers/ spiders, optimizing 
+web sites, black and white practices of SEO. 
+
+Web architecture: MVC. 
+
+Web server and Website Deployment: Introduction to Web Servers, 
+Configuring web servers case study – Apache Domain registration, 
+Domain hosting, parking websites, uploading data using FTP. 
+
+1,5 
+
+4,7 
+
+4 
+
+4 
+
+4,7 
+
+2,3 
+
+6,8 
+
+5 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+1 
+
+2 
+
+Total 
+
+14 
+
+17 
+
+ 
+Module 
+
+No. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+ 
+
+Exp. No. 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Design a web development  project by defining functional requirements 
+class diagram, data flow diagrams. 
+
+Demonstrate use of REST API using different HTTP methods. 
+
+Create a 
+a.  A  web  mashup  of  any  existing  live  web  applications  using  AJAX, 
+JSON. 
+b.  A  web  mashup  of  your  own  web  services.  Create  your  own  web 
+services(such  as  currency  converter,  time  zone  converter,  calculator 
+service) and mashup them. 
+
+Design  a  web  page  implementing  security  features  using  JSON 
+Webtokens / Auth2.0 or OAuth. 
+
+Write  a  python  code  to  demonstrate  the  behavior  of  Web  Crawlers/ 
+spiders  (use  XPATH,CSSPATH),extract  information  and  store  it  in 
+database. 
+
+Implement  the  MVC  architecture  given  in  exp  1  to  separate  frontend, 
+business  logic and backend. Demonstrate the use  database connectivity 
+along with validation and security using NodeJS framework. 
+
+Test the Web Application: 
+a. functionality testing 
+b. Performance testing 
+c. Regression testing 
+
+1,5 
+
+1,5 
+
+4 
+
+4,7 
+
+2,3 
+
+6,8 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+Setup  a  wordpress  account  on  your  computer,  study  the  ways  to  write 
+articles, manage users and data, configure site and deploy the website on 
+a server. 
+
+5 
+
+5 
+
+Total 
+
+40 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+18 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+Recommended Books: 
+1.  Eric van der Vlist, Danny Ayers, Erik Bruchez, Joe Fawcett, Alessandro Vernet,  
+    “Professional Web 2.0 Programming”, WROX press, February 2011. 
+2.  Eric Enge, Stephan Spencer, Jessie Srricchiola, Rand Fishkin, “The Art of SEO”, 2nd 
+     Edition, OReilly Publication, 2012. 
+3.  Kristopher B. Jones, “Search Engine Optimization”, 3rd Edition, Wiley publication, 2012. 
+4.  Dana Moore, Raymond Budd, Edward Benson “Rich Internet Application AJAX and  
+     Beyond”, ISBN: 0470082801, WROX Publisher, 2007. 
+5.  Srinivasan, “Web Technology”, Pearson, 2012. 
+6.  NodeJS - https://developer.mozilla.org/ 
+7.  JSON - http://shop.oreilly.com/produc 
+8.  https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/  
+     MVC_architecture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+19 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+(Hrs/week) 
+
+Teaching Scheme 
+
+Credits Assigned 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+Examination Scheme 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+ISE 
+
+Phase 1 -20 
+Phase 2- 20 
+
+MSE 
+
+-- 
+
+ESE 
+20 
+
+Total 
+
+60 
+
+Course 
+Code 
+
+ITP55 
+
+ Minor Project - I  
+
+ 
+Pre-requisite Course Codes 
+
+-- 
+
+At the end of the lab students will be able to 
+
+Course Outcomes 
+
+ 
+
+Identify the requirements for the project. 
+
+ITP55.1 
+ITP55.2  Develop a prototype to confirm technical requirement. 
+ITP55.3  Design and implement the project.  
+ITP55.4  Test the product.  
+
+Minor Project-I is an opportunity to make a difference in the experience of education in its own way.  It 
+is an attempt of scientific study of the problem in surrounding in order to guide, correct and evaluate the 
+study  and  decisions  about  it.  Minor  project  is  based  on  small  research  project  correlating  scientific 
+knowledge  and  day  to  day  experience  which  encourages  development  of  scientific  attitude  to  solve  real 
+life problems among students. 
+ 
+The Objectives of Minor Project-I are: 
+
+✓   To make students sensitive towards societal issues 
+✓   To learn scientific principles from day-to-day experiences 
+✓   To develop psychotechnological skills through observation, classification, statement of 
+      hypothesis etc. 
+✓   Development of communication, organizational skills and maturity through discussion, 
+      presentation etc. 
+✓   To develop ability to correlate science, technology and society 
+✓   To apply engineering knowledge and propose innovative, sustainable solutions to the real life 
+      challenges 
+
+ 
+Steps of Minor Research: 
+
+✓    Keen observation of the surrounding/society 
+✓    Identification of the problem 
+✓    Analysis of the problem 
+✓    Collection of relevant information by formulating research questions 
+✓    Suggesting plan of action 
+✓    Conducting experiments 
+✓    To draw conclusion 
+✓    To find the possible solution to rectify the problem 
+✓   To execute experiments and remedial measures wherever possible 
+
+ 
+ 
+
+ 
+
+20 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Students can seek guidance from teachers, other experts and make effective use of other sources of 
+information available around them.  
+Students must ensure that problem to be manageable in one semester. 
+Teachers must follow the below mentioned principles: 
+
+✓   Make student confront problem solving 
+✓   Develop methods and techniques of handling problems. Teach how to use the methods and  
+      not directly give solution to the problem. 
+✓   Emphasize positive thinking 
+✓   Lead the students to the peak of their powers for improvement of better learning. 
+
+Criteria of a good project: 
+
+✓   Appropriate idea, clear understanding and proper presentation of the concept 
+✓   Quality of work 
+✓   Project plan and its execution 
+✓   Credibility of the work 
+✓   Probable impact of the work on the attitude of students and society 
+✓   Scientific attitude, creativity and novelty reflected in project work and analysis of the   
+       situation 
+✓   Utility and innovation of the remedial measures 
+✓   Desirability, Feasibility and Viability in real life 
+
+ 
+The H/W and S/W resources required to complete the Minor Project-I may be beyond the scope of 
+curriculum of courses taken or may be based on the courses but thrust should be on  
+
+•   Learning additional skills  
+•   Development of ability to define and design the problem and lead to its accomplishment with  
+     proper planning  
+•   Learn the behavioral discipline by working in a team. The team may be maximum three (03)    
+     students. 
+
+ 
+Evaluation: 
+Project report should be submitted on A-4 size pages. Use both printing. Report must carry project 
+title, student details, certificate and acknowledgements. Other sections of the report shall be decided 
+by the department based on projects. But it must have introduction, necessity of project, objectives, 
+hypothesis (“If I do….then I may get….”), plan, observations, and analysis of results, conclusion and 
+references along with other sections related to technology. 
+The ISE and ESE evaluation will be carried out based on the rubrics framed by the Department. ISE 
+marks will be based on the performance of the individual student in two phases of evaluation. The 
+evaluation of the Phase-I will be based on presentation of the  market/environment/context/literature 
+survey, problem formulation, Problem definition and project title finalization. Phase-II evaluation is 
+based on Feasible solutions for the problem, Remedial measures and its demonstration, presentation 
+and technical report.  
+The ESE marks will be based on demonstration in front of the expert appointed by the Department. 
+In  the  ESE  examination  each  individual  student  would  be  assessed  for  his/her  contribution  in 
+selecting  the  originality  of  the  problem  statement,  understanding  and  knowledge  gained  about  the 
+task  completed  through  presentation/demonstration,  work  done,  and  preparing  the  technical 
+report/poster/technical paper of the project in the standard format provided by the department. 
+
+21 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+MEC1 
+
+French Language 
+
+Pre-requisite Course Codes 
+
+-- 
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+2 
+
+T 
+- 
+
+P 
+- 
+
+T 
+- 
+Examination Scheme 
+
+L 
+2 
+
+P 
+- 
+
+Total 
+
+2 
+
+ISE1  
+
+20 
+
+ISE2 
+
+20 
+
+Attendance 
+
+Total  
+
+10 
+
+50 
+
+Course 
+Outcomes 
+
+CO1 
+ 
+Self 
+introduction 
+
+CO2 
+ 
+General 
+Topics 
+ 
+
+CO3 
+ 
+Dialogue 
+with 
+professor or 
+any other 
+interlocutor 
+
+CO4 
+ 
+Exposure to 
+French 
+Culture Life 
+and Social 
+Norms. 
+
+Student will be able to 
+ 
+Introduce themselves in a meeting and converse with people from 
+different countries. Speak about themselves, their professions, their 
+family, family names, first names, nationalities, ages. Have a 
+discussion on the whereabouts and identities of people they interact 
+with such as their nationalities, the countries they come from, the 
+languages they speakGreet people and take leave 
+Student will be able to 
+ 
+Count numbers from 0 to 69 
+To know how to talk about dates, seasons, time of the day, days of the 
+week and months of the year. 
+Know how to describe a noun using qualitative adjectives. 
+ask price of something 
+Student will be able to 
+ 
+Communicate in class and understand instructions such as 
+:repeat/answer/listen/look/tick the 
+rightanswer/write/underline/close/how is it pronounced/how is it 
+written/how does one say/work in groups/I don‟t know/I do not 
+understandrequest for directions using interrogatives like where/who 
+speaks/to whom/whyshare /to give personal information: telephone 
+numbers/ date of birth/ postal address/filling out documents and 
+ability to comprehend the details on important identity papers such as 
+passports or registration forms. 
+Student will be able to 
+ 
+get from the Airport in France to his destination in city. To understand 
+directions. To move around the city understanding road signs, maps. 
+Will be acquainted with French Culture and hence understand their 
+behaviour and communicate appropriately with them. 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Ref  Hrs 
+
+Topics 
+
+Alphabet 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+15mins 
+
+30 mins 
+15 mins 
+
+30 mins 
+
+30 mins 
+
+60 mins 
+
+30 mins 
+30 mins 
+
+60 mins 
+60mins 
+
+45 mins 
+
+15 mins 
+
+60mins 
+60 mins 
+60 mins 
+30 mins 
+
+90 mins 
+30 mins 
+30 mins 
+
+30 mins 
+30 mins 
+60 mins 
+
+60 mins 
+
+23 
+
+Unit 
+No 
+1.1 
+
+1.2 
+1.3 
+
+1.4 
+
+1.5 
+
+2.1 
+
+2.1 
+2.2 
+
+3.1 
+3.2 
+
+4.1 
+
+4.2 
+
+4.3 
+5.1 
+5.2 
+6.1 
+
+6.2 
+7.1 
+7.2 
+
+8.2 
+
+Module 
+No 
+
+1.   
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+2. 
+ 
+
+ 
+ 
+
+3. 
+ 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+ 
+
+Accents 
+Greetings:  
+Good morning/ good afternoon/ good evening/ good night 
+Verb conjugation   
+Ētre” (To be) 
+
+Gender :  
+Masculine 
+Feminine  
+Articles: 
+Definite article:le / la / l‟/ les  
+Indefinite article :un/une/des Articles: 
+Definite article:le / la / les  
+List of some Masculine and Feminine Nouns 
+List of Qualitative Adjectives (Describing 
+big/small/adventurous/timid/pessimist/optimist ) 
+Adjectives of colour and the rules: de quellecouleur? 
+Agreement of Number and Gender of the qualifying adjective 
+with the noun 
+3 groups of verbs depending on how they end. Conjugation of 
+Regular “ER”  
+List of: commonly used “ER” and “ER” verbs used for student 
+teacher communication. 
+Conjugation of “ALLER” which is an Irregular “ER” verb. 
+Conjugation of Reflexive ER verb S‟APPELER‟ 
+Conjugation of GER / CER verbs that are tricky 
+Frequently used expressions (thank you/glad to meet you/ 
+sorry/please) 
+Singular and Plural 
+Nationalities 
+Languages 
+
+Days of the week 
+
+7.3 
+7.4  Months of the year 
+8.1 
+
+Forms of Membership/Admission/Candidature/registration 
+“Formularizedinscription” Hotel Reservation 
+Dialogue development from arriving at the Airport to getting to 
+your destination by Metro/RER/Taxi/Bus Directions to move 
+around the city / Metro Maps / Reaching Hotel or Youth Hostel 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+9. 
+
+9.1 
+
+Theory for the 10 marks Project work.  
+
+ 
+
+Paris, the capital of 1.Topography/Geography 2.History 
+3.Transport 4.Political and Financial / 5.Gastronomy 6. Current 
+Affairs 7.Culture –Fashion/Literature/Art/Theatre/Films 8. Trade 
+and Service Industries 9. Tourism and Monuments10. Ecological 
+concerns 
+
+10. 
+
+ 
+ 
+
+11 
+
+10.1  Professions 
+10.2  Family relations 
+10.3  Number counting: 0 to 69 Cardinal numbers 
+
+Question: Combien de 
+11.1  Possessive adjective:  
+
+Mon/Ma/Mes 
+Ton/Ta/Tes 
+Son/Sa/Ses 
+Notre/Notre/Nos 
+Votre/Votre/Vos 
+Leur/Leur/Leurs 
+
+12. 
+13. 
+
+12.1  Verb conjugation “AVOIR” to haveUsed to express age 
+13.1  Verb Conjugation of “FAIRE – to make / to do / to describe 
+
+weather conditions 
+Comment fait-ilaujourdhui? Quel temps fait-il? 
+Il fait beau / Il fait chaud / Il fait froid / Il fait frais / Il fait du 
+vent 
+
+ 
+
+14. 
+
+13.2  Seasons: L‟été /L‟hiver / L‟automne  /Le printemps 
+14.1  Weather 
+
+Comment fait-ilaujourdhui? Quel temps fait-il? 
+Il fait beau / Il fait chaud / Il fait froid / Il fait frais / Il fait du 
+vent 
+
+ 
+
+14.2  Ordinal Numbers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+120 mins 
+
+30 mins 
+
+30 mins 
+60 mins 
+
+120  mins 
+
+120 mins 
+60 mins 
+
+60 mins 
+60 mins 
+
+60 mins 
+
+Total   28 hours 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+ 
+
+Recommended Books: 
+1.  ALTER  EGO  –  Méthode  de  Français  A1  (PUBLICATION:  HACHETTE  FRANÇAIS  LANGUE 
+
+ÉTRANGÈRE) 
+
+2.  Annie Berthet / Catherine Hugot / Véronique M. Kizirian / Beatrix Sampsonis / Monique Waendendries 
+3.  NOUVEAU TAXI: Méthode de Français - HACHETTE 
+4.  GRAMMAIRE  PROGRESSIVE  DU  FRANCAIS  –  NiveauDébutant-  MaïaGrégoire  –  CLE 
+
+International 
+
+5.  OUI, JE PARLE FRANCAIS – 1 Méthode de Français MANAK BOOKS Prochy Master 
+6.  A Revision French Grammar and Composition Book – BLACKBURN AND MORRIS 
+7.  BLACKIE & SON PUBLISHERS PVT. LTD. 
+8.  G. MAUGER – COURS DE LA LANGUE ET DE CIVILISATION FRANÇAISES 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+25 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+MEC2 
+
+German Language 
+
+ 
+
+Pre-requisite Course Codes 
+
+--- 
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+2 
+
+T 
+- 
+
+P 
+- 
+
+T 
+- 
+Examination Scheme 
+
+L 
+2 
+
+P 
+- 
+
+Total 
+
+2 
+
+ISE1  
+
+20 
+
+ISE2 
+
+20 
+
+Attendance 
+
+Total  
+
+10 
+
+50 
+
+Course 
+
+Outcomes 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+CO6 
+
+Student  will  be  able  to  able  to  greet  the  other  person,  say  good  bye, 
+introduce oneself and the partner, to be able to talk about the others, to be 
+able  to  count  upto  20,  make  use  of  knowledge  of  numbers  as  regards 
+understanding  telephone  numbers,  to  be  able  to  recognize  alphabets, 
+speak about countries and languages 
+Student will be able to speak about hobbies, take leave of someone, name 
+the  days  of  the  week,  to  be  able  to  talk  about  work,  jobs,  and  office 
+timings, to be able to count beyond 20, to be able to talk about seasons, to 
+be able to register own data on internet site 
+Student  will  be  able  to  name  places  and  important  buildings  like  the 
+marketplace,  to  be  able  to  ask  questions  regarding  places,  to  be  able  to 
+relate  texts  to  a  picture  story,  ask  for  things,  name  the  means  of  public 
+transport, ask for directions 
+Student will be able to  identify  food items  and to  talk about them, to  be 
+able  to  write  a  shopping  list,  understand  conversations  in  a  supermarket, 
+understand W-questions 
+Student  will  be  able  to  understand  time,  plan  time  table  as  per  required 
+time, to be able to speak about family, to excuse oneself for being late, to 
+be able to fix an appointment telephonically 
+Student will be able to plan something together, to be able to speak about 
+birthday, to understand and draft an invitation, to be able to order and pay 
+food  items  in  a  restaurant,  to  be  able  to  talk  about  routine  events, 
+understand event information on radio 
+
+Module 
+No. 
+
+Topics 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+Guten Tag! 
+Freunde, Kollegen und ich 
+In der Stadt 
+GutenAppetit! 
+Tag fuer Tag 
+ZeitmitFreunden 
+
+Total 
+
+ 
+
+ 
+ 
+
+ 
+
+Ref.  Hrs. 
+
+1,2 
+1,2 
+1,2 
+1,2 
+1,2 
+1,2 
+
+4 
+5 
+5 
+4 
+5 
+5 
+28 
+
+26 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Recommended Books: 
+ 
+1.  Netzwerk A1:Authors - Stefanie Dengler, Paul Rausch, Helen Schmitz, Tanja Sieber 
+2.  Studio D A1:Authors - Funk,  Kuhn, Demme 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ABL3: Creative Thinking, Diversity and Workplace Etiquette 
+
+ 
+I.  Creative Thinking: 
+
+Organizations  thrive  on  innovative  ideas  and  new  answers  to  old  problems.  To  become 
+successful not  only these approaches be fresh, they must also  be sound.  This  activity shall 
+inspire  students  to  push  them  for  critical  thinking  and  decision  making.    Students  may  be 
+asked  to  provide  innovative  solutions  to  specific  issues  within  the  organization  to  meet 
+business  needs.  Through  this  activity  students  shall  learn  how  to  step  out  of  their  comfort 
+zone,  able  to  isolate  problems,  recognize  differences  between  left  brain  and  right  brain 
+thinking, and apply creative thinking techniques to business problems.  
+
+ 
+II. Diversity: 
+
+Nowadays students are becoming global and degree from an accredited institute is considered 
+as „Educational  Passport‟ hence it is  necessary to  include training on diversity. Training on 
+working in a culturally diverse team to prepare students for an international work is required.  
+A better understanding of others can improve communication, encourage engagement, reduce 
+inappropriate behavior and increase the strength  of a team. A strategy of inclusion can also 
+help employees realize their full workplace potential. Activities shall be planned for diversity 
+awareness, 
+style 
+pRecommended  Books  and  tactics  for  managing  heterogeneous  teams.  Igniting  thought 
+provoking  questions  and  conversations  related  to  diversity  in  race,  gender,  culture,  age  and 
+other observable differences shall be fundamental to this activity. Activity shall also address 
+cognitive biases which are influences that cause us to make decisions based on information 
+outside of logic and rational thinking for example behavioral partiality and social favoritism. 
+
+communicational 
+
+unconscious 
+
+bias, 
+
+generational 
+
+differences, 
+
+ 
+III. Workplace Etiquette: 
+
+Organizations  expect  that  employees  are  aware  of  workplace  expectations  and  etiquette. 
+While  the  use  of  good  business  etiquette  will  not  make  up  for  technical  knowledge  in  the 
+workplace but bad manners and poor etiquette can cost both employees and organizations for 
+which they work.  This activity shall focus on ins and outs of business etiquette by managing 
+technology  and  social  media  effectively.  Activity  shall  be  based  on  Cell  phone  etiquette, 
+Email  etiquette,  social  media  etiquette,  board  meeting  etiquette,  sales  meeting  etiquette, 
+business  dressing  and  dining  skills,  international  manners  along  with  exceptional  etiquette 
+like hosting corporate guests, interacting with public or customers and business networking. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+28 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+Methodology: 
+
+Guest  lectures  by  professionals  shall  be  arranged  on  Creative  Thinking,  Diversity  and 
+Workplace Etiquette. At least one lecture on each topic shall be taken. Assessment shall be 
+based on performance in following activities: 
+
+1. Short Film Making 
+2. Skit Performance 
+3. Poster Presentation 
+4. Project Presentation 
+5. Physical Model Presentation 
+6. Scientific Case Study 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Semester VI 
+
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+ 
+
+Course 
+Code 
+
+L 
+3 
+
+T 
+- 
+
+ISE  
+20 
+
+L 
+3 
+
+P 
+- 
+Examination Scheme 
+
+T 
+-- 
+
+Theory Marks 
+MSE 
+
+20 
+
+ESE 
+60 
+
+P 
+-- 
+
+Total 
+
+3 
+
+Total 
+100 
+
+IT61 
+
+Distributed Systems 
+
+ 
+
+ 
+Pre-requisite Course Codes 
+
+IT42: Computer Organization and Architecture   
+IT44: Operating Systems  
+IT52: Computer Networks 
+
+At the end of the course students will be able to 
+
+IT61.1 
+IT61.2 
+IT61.3 
+
+IT61.4 
+IT61.5 
+
+the  clock  synchronization  algorithm  and 
+
+Compare different distributed system architectures. 
+Implement message communication techniques. 
+Analyze 
+consistency in distributed systems.  
+Make use of  CORBA components for case study 
+Demonstrate the basic concepts of CUDA programs for 
+performance measures. 
+
+         Course Outcomes 
+
+ 
+
+ 
+Module 
+
+No. 
+
+Module name  Unit 
+No. 
+
+Topics 
+
+Ref.  Hrs. 
+
+1 
+
+Introduction 
+
+1.1 
+
+1.2 
+
+2.1 
+
+   2.2 
+
+Communi-
+cation in 
+
+Distributed 
+
+2.3 
+
+Systems 
+
+2 
+
+2.4 
+
+Introduction, Goals, Distributed Computing 
+Models, Software Concepts, Issues in designing 
+Distributed System 
+Distributed System architectures- Layered, object 
+based,  data  centered,  Event  based,  multitier  and 
+Client Server, Cases Study – world wide web 
+Multi Datagram Messaging, Group 
+Communication 
+Remote Procedure Call (RPC): Basic RPC 
+Operations, Parameter Passing, Extended RPC 
+Models, Case Study: SUN RPC 
+Remote Object Invocation: Distributed Objects, 
+Binding a Client to an Object, Static Vs Dynamic 
+RMI, Parameter Passing, Case Study: Java RMI 
+Message Oriented Communication: Persistence 
+and synchronicity in communication, Message 
+Oriented Transient and Persistent 
+Communications 
+
+1,2,3,
+
+5 
+
+1,2,5 
+
+3 
+
+3 
+
+1 
+
+3 
+
+3 
+
+6 
+
+31 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+3.1 
+
+3.2 
+
+4.1 
+
+4.2 
+
+Threads, Code Migration: Approaches to Code 
+Migration 
+Migration and Local Resources, Migration in 
+Heterogeneous Systems, Case Study : Viruses 
+and Malware 
+Clock Synchronization, Physical and Logical 
+Clocks 
+Global State, Election Algorithms, Mutual 
+Exclusion, Distributed Transactions 
+
+4.3  Deadlocks in Distributed Systems 
+4.4 
+
+4.5 
+
+5.1 
+
+5.2 
+
+Distributed 
+Technologies 
+
+Introduction Data-Centric Consistency Models 
+Client Centric Consistency Models, Distributed 
+Protocols 
+Introduction to CORBA, CORBA Components 
+and architecture 
+Method Invocation, Static and Dynamic 
+Invocation in CORBA, CORBA IDL, Developing  
+Application using CORBA 
+
+1,2 
+
+1,2,3,
+
+5 
+
+1,2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+2 
+2 
+
+2 
+
+2 
+
+2 
+
+1 
+
+3 
+
+ 
+
+3 
+
+Processes 
+
+Synchroni-
+
+zation, 
+
+4 
+
+Consistency 
+
+and 
+
+Replication 
+
+5 
+
+6 
+
+6.1  Basics of GPGPU 
+
+CUDA 
+
+6.2 
+
+CUDA Programming, CUDA  Memory Type and 
+performance issues 
+
+4 
+
+Total 
+
+42  
+
+ 
+ 
+Recommended Books: 
+ 
+1.  Tanenbaum A.S. , Van Steen M., “Distributed Systems: Principles and Paradigms”, 2nd Edition, 
+     Pearson Education, 2007. 
+2.  George Coulouris, Jean Dollimore and Tim Kindberg, “Distributed Systems Concepts and  
+     Design”, 5thEdition , Pearson Education , 2012. 
+3.  Pradeep K. Sinha ,“Distributed operating Systems: Concepts and Design”, Prentice Hall of  
+     India, 2007. 
+4.  Shane Cook, “CUDA Programming: A developer’s Guide to parallel computing with CPUs”. 
+5.  Ajay D. Kshemkalyani and Mukesh Singhal, “Distributed Computing” Cambridge. 
+ 
+
+ 
+
+ 
+
+32 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+Course 
+Code 
+
+IT62 
+
+Data Warehousing and 
+
+Mining 
+
+L 
+3 
+
+T 
+1 
+
+L 
+3 
+
+P 
+-- 
+Examination Scheme 
+
+T 
+1 
+
+P 
+-- 
+
+Total 
+
+4 
+
+ISE  
+20 
+
+MSE 
+
+20 
+
+ESE 
+60 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+
+IT43: Database Management Systems  
+IT53: Advanced Database Systems 
+
+At the end of the course students will be able to 
+
+Course Outcomes 
+
+IT62.1  Explain the importance of data mining and Data Warehousing. 
+IT62.2  Identify  the  data  needed  for  data  mining  algorithms  in  terms  of 
+
+attributes, class inputs, training, validating, and testing files.  
+
+IT62.3  Apply Association mining on large data sets. 
+
+IT62.4  Measure  the  performance  of  classification  algorithms  using 
+
+metrics. 
+
+IT62.5  Measure the performance of Clustering algorithms using large 
+
+data sets. 
+
+ 
+Module 
+
+No. 
+
+Module name  Unit 
+No. 
+
+Topics 
+
+Ref.  Hrs. 
+
+Data  Warehouse  features, 
+Architecture 
+
+ 
+
+  Data  Warehouse 
+
+Data  Mart,    Data  Warehouse  Schema,  Dimension 
+Modeling 
+
+2,3 
+
+ETL process, Online Analytical Processing (OLAP), 
+OLTP, Reporting tools 
+
+Kind  of  patterns  to  be  mined,  Types  of  Attributes; 
+Statistical  Description  of  Data,  Data  Visualization; 
+Measuring similarity and dissimilarity  
+ 
+ 
+Data  Reduction:  Attribute 
+Histograms, Clustering and Sampling  
+
+3.1  Data Preprocessing, Data Cleaning; Data Integration   
+selection, 
+
+subset 
+
+3.3 
+
+Data  Transformation  &  Data  Discretization: 
+Normalization,  Binning,  Histogram  Analysis  and 
+Concept hierarchy generation  
+
+1,4 
+
+1,4 
+
+1.1 
+
+1.2 
+
+1.3 
+
+2.1 
+
+3.2 
+
+1 
+
+2 
+
+3 
+
+Data 
+
+Warehousing 
+
+Introduction 
+
+to Data 
+Mining 
+
+Data 
+
+Preprocessing 
+
+ 
+
+ 
+ 
+
+ 
+
+2 
+
+2 
+
+2 
+
+4 
+
+2 
+
+2 
+
+2 
+
+33 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+4 
+
+Classification 
+
+ 
+ 
+
+Basic Concepts, Classification methods: Decision Tree 
+Induction, Attribute Selection Measures, Tree pruning.  
+Bayesian  Classification:  Naïve  Baye‟s  Classifier, 
+Support Vector Machine 
+Prediction:  Structure  of  regression  models;  Simple 
+Linear  regression,  Multiple  linear  regression.  Model 
+Evaluation & Selection: Accuracy and Error measures, 
+Holdout,  Random  Sampling,  Cross  Validation, 
+Bootstrap;  Comparing  Classifier  Performance  using 
+ROC Curves  
+Combining  Classifiers:  Bagging,  Boosting,  Random 
+forests 
+
+4.1 
+
+4.2 
+
+4.3 
+
+5.1  Cluster Analysis: Basic Concepts  
+
+1,3,4 
+
+5 
+
+Clustering 
+
+5.2 
+
+Partitioning  Methods:  K-Means,  K-Mediods; 
+Hierarchical  Methods:  Agglomerative,  Divisive, 
+BIRCH  
+
+1,3 
+
+Outlier 
+Analysis 
+
+Frequent 
+Pattern 
+Mining 
+
+5.3  Density-Based Methods: DBSCAN, OPTICS 
+6.1  Outliers Types, Challenges  
+
+6.2 
+
+7.1 
+
+Outlier  Detection  Methods:  Supervised,  Semi-
+Supervised, Unsupervised, Proximity based, Clustering 
+Based 
+Market  Basket  Analysis,  Frequent  Item  sets,  Closed 
+Item sets, and Association Rules 
+
+7.2  The Apriori Algorithm 
+7.3  The FP Growth algorithm 
+
+7.4 
+
+Introduction  to  Mining  Multilevel  Association  Rules 
+and Multidimensional Association Rules 
+
+1 
+
+1,3 
+
+3 
+
+2 
+
+1 
+
+1 
+
+3 
+
+2 
+
+1 
+
+1 
+
+1 
+
+2 
+2 
+
+1 
+
+6 
+
+7 
+
+8 
+
+ 
+
+Data Mining 
+Applications 
+
+8.1 
+
+Data  mining  for  business  Applications  like  Fraud 
+Detection,  Click  stream  Mining,  Time  Series,  Market 
+Segmentation, 
+telecommunications 
+industry, banking & finance CRM etc. 
+
+industry, 
+
+retail 
+
+1,3 
+
+6 
+
+Total  42 
+
+ 
+Recommended Books: 
+ 
+
+1.  Han and Kamber, "Data Mining Concepts and Techniques", Morgan Kaufmann, 3rd Edition,  
+     2012. 
+2.  ReemaThareja, “Data Warehousing”, Oxford Higher Education, 1st Edition, 2009. 
+3.  VikramPudi&Radha Krishna, “Data Mining”, Oxford Higher Education, 2009. 
+4.  Michael Berry and Gordon Lin off , “Data Mining Techniques”, 2nd Edition Wiley  
+     Publications, 2011. 
+ 
+ 
+
+ 
+
+34 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+IT63 
+
+Information and Network 
+
+security  
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+3 
+
+T 
+1 
+
+ISE  
+20 
+
+L 
+3 
+
+P 
+- 
+Examination Scheme 
+
+T 
+1 
+
+Theory Marks 
+MSE 
+
+20 
+
+ESE 
+60 
+
+P 
+-- 
+
+Total 
+
+4 
+
+Total 
+100 
+
+ 
+Pre-requisite Course Codes 
+
+ITL36: Open Source Operating System Lab 
+IT44: Operating Systems 
+IT52: Computer Networks 
+
+At the end of the course students will be able to  
+
+IT63.1 
+IT63.2 
+
+IT63.3 
+IT63.4 
+IT63.5 
+
+Identify cryptographic algorithm to secure information. 
+Interpret concepts of security, authentication and 
+authorization. 
+Illustrate the software security practices. 
+Categorize the attacks in each layer of OSI model. 
+Explain the different ways to secure a web. 
+
+Unit 
+No. 
+
+1.1 
+
+1.2 
+
+1.3 
+
+2.1 
+
+   2.2 
+
+Topics 
+
+Ref.  Hrs. 
+
+Security  Goals,  Threats 
+Information, Classic Cryptography. 
+Symmetric  Key  Cryptography-DES,  AES,  Triple 
+DES. 
+
+and  Attack  on 
+
+Public  and  Private  Key  Cryptography  –  RSA, 
+Diffie-Hellman,  Hash  Function  –  MD5,  SHA-1, 
+Digital Signature. 
+
+1,2 
+
+1,2 
+
+ 
+
+1,2 
+
+2 
+
+3 
+
+2 
+
+Authentication  Methods  and  Protocols,  Password 
+based 
+Based 
+Authentication, Biometric Authentication. 
+
+authentication, 
+
+Token 
+
+Digital  Certificates,  X.509  Directory  Services, 
+PKI,  Needham 
+,Authentication 
+Protocol, Single sign on, Kerberos, Authentication 
+Protocol, Federated Identity Management. 
+
+Schroeder 
+
+3,4 
+
+2 
+
+3,4 
+
+4 
+
+35 
+
+         Course Outcomes 
+
+ 
+Module 
+
+No. 
+
+Module name 
+
+Cryptographic 
+
+1 
+
+Techniques 
+
+  
+
+2 
+
+Authentication 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+3.1 
+
+3.2 
+
+4.1 
+
+4.2 
+
+4.3 
+
+5.1 
+
+5.2 
+
+ Access  control  Policies:  DAC,  MAC,  RBAC, 
+Access  control  Matrix,  ACLs  and  Capability 
+Lists. 
+
+4 
+
+2 
+
+Multiple  level  security  model:  Biba  and  Bell  La 
+Padula  Models,  Multilateral  security,  Covert 
+channel, CAPTCHA. 
+
+Software  Flaws,  Buffer  Overflow,  Incomplete 
+Mediation, Race conditions. 
+
+Malware: Viruses, Worms, Trojans, Logic Bomb, 
+Bots, Rootkits.  
+
+4 
+
+3 
+
+3 
+
+2 
+
+2 
+
+2 
+
+Miscellaneous  Software  Attacks:  Salami  attack, 
+Linearization  Attacks,  Trusted  Computing: 
+Software  reverse  engineering,  Digital  Rights 
+management. 
+ 
+Network  security  basics,  TCP/IP  vulnerabilities 
+ 
+Layer wise.  
+ 
+Packet  Sniffing, ARP spoofing, port scanning,  IP 
+spoofing, TCP syn flood, DNS Spoofing, Internet 
+Security  Protocols:  SSL,  TLS,  IPSEC,  Secure 
+Email and S/MIME, Denial of 
+
+3 
+
+3 
+
+4,5 
+
+2 
+
+4,5 
+
+4 
+
+5.3 
+
+Service:  Classic  DOS  attacks,  Source  Address 
+spoofing, ICMP flood, SYN flood, UDP flood,  
+
+4,5 
+
+2 
+
+3 
+
+Access Control 
+
+4 
+
+Software 
+security 
+
+5 
+
+Network 
+Security 
+
+5.4 
+
+6.1 
+
+6.2 
+
+6 
+
+Web Security 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distributed  Denial  of  Service,  Defenses  against 
+Denial  of  Service  Attacks.  Firewalls  ,Intrusion 
+Detection  Systems:  Host  Based  and  Network 
+Based IDS, Honey pots. 
+
+User  Authentication  and  session  management, 
+Cookies, 
+Injection 
+Techniques, Cross Site Scripting. 
+
+Secure  HTTP, 
+
+SQL 
+
+Cross-Site  Request  Forgery,  Session  Hijacking 
+and  Management,  Phishing  and  Pharming 
+Techniques, Web Services Security. 
+
+4,5 
+
+4 
+
+4 
+
+3 
+
+4 
+
+3 
+
+Total 
+
+42 
+
+36 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+ 
+
+Recommended Books: 
+ 
+1.  Ranjan Bose, “Information Theory, Coding and Cryptography”, 2nd Edition, Tata McGraw  
+     Hill, 2008. 
+2.  Trappe and Washington, “Introduction to Cryptogrpahy with Coding theory”, Pearson,  
+     2007. 
+3.  Behrouz A. Forouzan ,  Debdeep Mukhopadhyay “Cryptography and Network Security”,    
+     McGraw-Hill Education, 2rd  edition , July 2010.  
+4.  Mark Stamp, “Information security Principles and Practice”, Wiley publication, 2rd  edition, 
+     November 2011. 
+5.  Eric Cole, “Network security bible”, Wiley ,2nd Edition, September 2009. 
+ 
+
+ 
+
+ 
+
+37 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ITL61 
+
+Distributed Systems Lab 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+ISE 
+40 
+
+Examination Scheme 
+ESE 
+
+MSE 
+
+-- 
+
+-- 
+
+Total 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+
+IT42: Computer Organization and Architecture   
+IT44: Operating Systems 
+IT52: Computer Networks 
+
+At the end of the lab students will be able to 
+
+Course 
+
+Outcomes 
+
+ 
+Exp. No. 
+
+1 
+
+2 
+3 
+4 
+5 
+6 
+7 
+
+8 
+
+ITL61.1 
+ITL61.2 
+ITL61.3 
+ITL61.4 
+
+Apply message communication technique and develop the applications.   
+Implement clock synchronization algorithm in distributed system. 
+Develop a  application using CORBA. 
+Develop application using MapReduce and performance measure using 
+CUDA. 
+
+Suggested List of Experiments 
+
+Design distributed application which consists of a client and server using 
+threads. 
+Design a Distributed application (e.g. chat server)  using socket.  
+Write a program for given scenario using RPC. 
+Design and implementation of RMI using JAVA. 
+Develop a Distributed Application using MapReduce. 
+Implement Lamport timestamp logical clock and Election Algorithm. 
+Develop a component for any real time scenario using CORBA. 
+CORBA Mechanism:- 
+(I)    Implementing the Servant Class 
+(II)  Creating the Server 
+(III) Implementing the Client 
+Write a program using CUDA. 
+
+Ref.  Marks 
+1,2 
+
+5 
+
+1,2 
+1,2 
+1,2,4 
+1,2 
+1,2,4 
+1,2 
+
+5 
+5 
+5 
+5 
+5 
+5 
+
+3 
+Total 
+
+5 
+40 
+
+Experiments 1-7 to be done based on the case study and scenario.  
+
+ 
+Recommended Books: 
+ 
+1.  Tanenbaum A.S. , Van Steen M., “Distributed Systems: Principles and Paradigms”, Pearson  
+     Education, 2007. 
+2.  Pradeep K. Sinha ,“Distributed operating Systems: Concepts and Design”, Prentice Hall of  
+     India, 2007. 
+3.  Shane Cook ,“CUDA Programming: A developer’s Guide to parallel computing with CPUs”. 
+4.  Ajay D. Kshemkalyani and Mukesh Singhal, “Distributed Computing” Cambridge. 
+ 
+
+38 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+
+Course 
+Code 
+
+Course Name 
+
+Teaching 
+Scheme 
+
+Credits Assigned 
+
+(Hrs/week) 
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+ITL62 
+
+Data Warehousing and 
+
+Mining Lab 
+
+Examination Scheme 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+Total 
+
+-- 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+
+IT44: Database Management Systems  
+IT53: Advanced Database Systems 
+
+At the end of the course students will be able to 
+
+ 
+ 
+ 
+
+Course Outcomes 
+
+ 
+ 
+
+ITL62.1 
+
+ITL62.2 
+
+ITL62.3 
+
+ITL62.4 
+
+Identify the data needed for data mining algorithms 
+in terms of attributes, class inputs, training, 
+validating, and testing files.  
+Identify a problem having a dataset to do data 
+visualization. 
+
+Measure the performance of classification 
+algorithmson large data sets by applying metrics. 
+
+Measure the performance of 
+Clusteringalgorithmsusing large data sets. 
+
+ITL62.5 
+
+Analyze Association mining on large data sets. 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+
+Exp. 
+No. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+ 
+
+ 
+
+ 
+
+Identify different Data Mining and Data Warehousing tools. 
+Choose  any  Company  to  understand  the  business  model  of  the 
+company. Objective of choosing this business is to find following:- 
+i) Stakeholders 
+ ii) Revenue generation 
+ iii) Kind data generated 
+ iv) Tools they use 
+
+To implement Data preprocessing using Weka Tool. 
+To implement Regression using R Tool. 
+
+1 
+1 
+
+2 
+3 
+
+ Identify a problem havinglarge Dataset and useit to visualize the result. 
+
+2,3,4 
+
+To implement classifier- Decision Tree, Naïve Bayes, Random Forest, 
+Support Vector Machine using Weka Tool and Java/Python. 
+
+2,4 
+
+5 
+5 
+
+5 
+5 
+
+5 
+
+5 
+
+39 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+ 
+
+7 
+
+8 
+
+To implement Clustering Algorithms- K-Means using Weka Tool and 
+Java/Python. 
+
+To implement Association Mining Algorithm (Apriori, F-P Growth) in 
+Weka and Java/Python. 
+
+2,4 
+
+2,4 
+
+5 
+
+5 
+
+Total 
+
+40 
+
+ 
+ 
+ 
+Recommended Books: 
+ 
+1.  P. N. Tan, M. Steinbach, Vipin Kumar, “Introduction to Data Mining”, Pearson Education,  
+     1st Edition, 2005. 
+2.  A.B.M. Shawakat Ali, Saleh A. Wasimi, “Data Mining: Methods and Techniques”,  
+     CENGAGE Learning, 2007. 
+3.  Yanchang Zhao, “R and Data Mining: Examples and Case Studies”, 1stEdition, Elsevier,  
+     2013. 
+4.  Robert Layton, “Learning Data Mining with Python”, 1stEdition, Packt Publishing Ltd, 2015. 
+ 
+
+ 
+
+ 
+
+40 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+Information and Network 
+
+Examination Scheme 
+
+security Lab 
+
+ISE 
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+40 
+
+ 
+
+Course 
+Code 
+
+ITL63 
+
+ 
+Pre-requisite Course Codes 
+
+ITL36: Open Source Operating System Lab 
+ITL44: Operating Systems 
+ITL52: Computer Networks 
+
+At the end of the lab students will be able to 
+
+ITL63.1 
+
+Interpret the concepts of security. 
+
+Course 
+
+Outcomes 
+
+ 
+Exp. No. 
+
+ITL63.2 
+
+Illustrate the network vulnerability scanning process. 
+
+ITL63.3 
+
+Demonstrate the different attacks involved in a network. 
+
+ITL63.4 
+ITL63.5 
+
+Illustrate attacks involved in web security. 
+Use digital forensics method to recover the deleted data. 
+
+Suggested List of Experiments 
+
+1 
+2 
+
+3 
+4 
+5 
+6 
+
+7 
+
+8 
+
+Foot printing a target network. 
+Scanning a network using:  
+A. Nmap Network Mapper 
+B. Nessus vulnerability scanner 
+Exploit Windows vulnerability to get unauthorized access. 
+Exploiting Client side vulnerabilities and establishing a VNC session. 
+Performing Man -in-the-Middle Attack using Wireshark & Etercap. 
+A. Creating a Trojan using Social-Engineer Toolkit. 
+B. Implementing DoS attack. 
+
+Performing SQL injection. 
+A. Manual SQL Injection, John the Ripper.  
+B. Automate SQL Injection with Sql Map. 
+Digital forensics method to clone and recover the deleted data. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ref.  Marks 
+1,5,7 
+1,5,7 
+
+5 
+5 
+
+1,5,4,7 
+1,5,7 
+5,7 
+
+5,7,2,3 
+
+6 
+
+5 
+
+Total 
+
+5 
+5 
+5 
+5 
+
+5 
+
+5 
+40 
+
+41 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Recommended Books: 
+ 
+1.  William Stallings, “Computer Security Principles and Practice”, Pearson Education, 3rd  
+     edition, July 2014. 
+2.  Charles P. Pfleege,  Shari Lawrence Pfleeger Jonathan Margulies,“Security in Computing”,  
+      Prentice Hall; 5th  edition, January 2015. 
+3.  Dieter Gollman , “Computer Security”, Wiley India ,3rd Edition, , February  2011 
+4.  Behrouz A. Forouzan ,  Debdeep Mukhopadhyay “Cryptography and Network Security”,  
+     McGraw-Hill Education, 2rd  edition , July 2010.  
+5.  Mark Stamp, “Information security Principles and Practice”, Wiley publication, 2rd  edition,  
+     November 2011.  
+6.  OWASP TOP 10 :   
+     https://www.owasp.org/images/b/b0/OWASP_Top_10_2017_RC2_Final.pdf   
+7.  Eric Cole, “Network security bible”, Wiley ,2nd Edition, September 2009. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+42 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ITL64 
+
+Machine Learning 
+
+Lab 
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+L 
+-- 
+
+P 
+2 
+
+T 
+1 
+Examination Scheme 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+ISE 
+
+40 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Credits Assigned 
+
+Total 
+
+2 
+
+Total 
+
+40 
+
+ 
+Pre-requisite Course Codes 
+
+IT53: Advanced Database Systems 
+BS41: Applied Mathematics-II  
+
+At the end of the lab students will be able to 
+
+ITL64.1  Apply  Dimensionality  reduction  techniques  to  a  given 
+
+problem 
+
+Course Outcomes 
+
+ITL64.2  Apply regression techniques on a large data set 
+ITL64.3  Apply  neural  networks 
+
+to  solve  pattern  classification 
+
+problems 
+
+ITL64.4  Solve optimization problems using genetic algorithms. 
+ITL64.5  Apply appropriate ML technique on a given domain 
+
+ 
+Module 
+
+No. 
+
+1 
+
+Section 
+
+1.1 
+
+2.1 
+
+3.1 
+
+3.2 
+
+4.1 
+
+5.1 
+
+ 
+
+2 
+
+3 
+
+ 
+
+4 
+
+5 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Topics 
+
+Introduction  to  Machine  Learning:    Types  of  Machine  Learning, 
+Issues  in  Machine  Learning,  Applications  of  Machine  Learning, 
+How to choose Right Algorithm?  
+Dimensionality  Reduction:  Dimensionality  Reduction  Techniques, 
+Principal Component Analysis, Independent Component Analysis  
+Regression:  Logistic  Regression,  Polynomial  Regression,  Time 
+Series, autocorrelation 
+Introduction  to  neural  networks:Supervised  Learning  algorithms, 
+Perceptron  (Single  Layer,  Multilayer),  Linear  separability,  Back 
+Propagation algorithm 
+Unsupervised Learning Algorithms: Winner - take-all 
+Genetic  Algorithms  and  its  applications:  Inheritance  Operators, 
+Cross-over  types,  Inversion  and  Deletion,  Mutation  Operator,  Bit-
+wise Operators,Convergence of GA, Applications of GA.  
+Exploration  of  areas:  Web  mining,  Text  mining,  Link  Analysis, 
+security, Image Analysis etc. 
+
+Ref.  Hrs. 
+
+2,4 
+
+02 
+
+4 
+
+3 
+
+02 
+
+02 
+
+3 
+
+5,6 
+
+02 
+
+03 
+
+2,4 
+
+03 
+
+Total 
+
+ 
+
+14 
+
+43 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+List of Experiments: 
+
+Exp. No. 
+
+Experiment 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+To implement PCA, t-SNE on a given data set. 
+
+implement 
+
+To implement Regression on a large data set. 
+To implement Perceptron Learning on a problem. 
+To 
+Backpropagation on standard data set e.g. Iris 
+To implement Unsupervised Learning algorithm: Winner-take-
+all algorithm.  
+
+Supervised 
+
+Learning 
+
+algorithm: 
+
+Use time series data set for forecasting future trends. 
+
+Use Genetic Algorithms for a given scenario.  
+
+Choose  an  appropriate  dataset  and  an  algorithm  to  solve  a 
+problem  of  any  of  the  domains  as  web  mining,  text  mining, 
+etc. 
+
+Ref.  Marks 
+2,4 
+05 
+
+4 
+3 
+3 
+
+3 
+
+7 
+
+5,6 
+
+2,4 
+
+05 
+05 
+05 
+
+05 
+
+05 
+
+05 
+
+05 
+
+ 
+Recommended Books: 
+
+Total Marks 
+
+40 
+
+1.  Jacek M.Zurada,“Introduction to Artificial Neural Systems”, Jaico Publishing House, 2005. 
+2.  EthemAlpaydın, “Introduction to Machine Learning”, MIT Press, 2010. 
+3.  S.N.  Sivanandam  and  S.  N.Deepa,  “Principles  of  Soft  Computing”,  2nd  edition,  Wiley  India, 
+
+2007. 
+
+4.  Sarah  Guido,  Andreas  Müller,  “Introduction  to  Machine  Learning  with  Python-A  Guide  for 
+
+Data Scientists”, O'Reilly Media, October 2016. 
+
+5.  Sivanandam, S.N., Deepa, S. N., “Introduction to Genetic Algorithms”, Springer, 2008. 
+6.  David E. Goldberg, “Genetic Algorithms in Search, Optimization, and Machine Learning”, 1989. 
+7.  Dr. PKS Prakash, “Practical Time Series Analysis”, Packt, 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ITP65 
+
+ Minor Project - II  
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+
+L 
+-- 
+
+T 
+-- 
+
+P 
+2 
+
+ISE 
+
+Phase 1 -20 
+Phase 2- 20 
+
+Credits Assigned 
+
+L 
+-- 
+Examination Scheme 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+1 
+
+MSE 
+
+-- 
+
+ESE 
+20 
+
+Total 
+
+60 
+
+ 
+Pre-requisite Course Codes 
+At the end of the lab students will be able to 
+
+ITP55: Mini Project 1 
+
+Course Outcomes 
+
+ 
+
+Identify the problem that exists in the system.  
+
+ITP65.1 
+ITP65.2  List the requirements.  
+ITP65.3  Select one from alternate solution. 
+ITP65.4  Write survey paper. 
+
+ISE:  
+The main intention of Minor Project  is  to  apply the software engineering  principles and practices  to 
+solve social issues.  Rigurous requirement gathering is done and documented.  Hence the preliminary 
+study of the final year project is done here.   
+ 
+Minor Project contains:- 
+1)  Problem identification and analysis 
+2)  Requirement gathering 
+3)  Feasibility study  
+4)  Alternate solution 
+5)  Selection of technologies and tools 
+6)  Prototype design  
+7)  Architectural diagram 
+ 
+Evaluation: 
+The team will be maximum of 3 students.  Project report should be submitted on A-4 size pages. Use 
+both printing. Report must carry project title, student details, certificate and acknowledgements. Other 
+sections  of  the  report  shall  be  decided  by  the  department  based  on  projects.  But  it  must  have 
+introduction,  necessity  of  project,  objectives,  hypothesis  (“If  I  do….then  I  may  get….”),  plan, 
+observations,  and  analysis  of  results,  conclusion  and  references  along  with  other  sections  related  to 
+technology. 
+The ISE and ESE evaluation will be carried out based on the rubrics framed by the Department. ISE 
+marks  will  be  based  on  the  performance  of  the  individual  student  in  two  phases  of  evaluation.  The 
+evaluation of the Phase-I will be based on presentation of the   market/environment/context/literature 
+survey,  problem  formulation,  Problem  definition  and  project  title  finalization.  Phase-II  evaluation  is 
+
+ 
+
+45 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+based  on  Feasible  solutions  for  the  problem,  Remedial  measures  and  its  demonstration,  presentation 
+and technical report.  
+The ESE marks will be based on demonstration in front of the expert appointed by the Department. In 
+the  ESE  examination  each  individual  student  would  be  assessed  for  his/her  contribution  in  selecting 
+the  originality  of  the  problem  statement,  understanding  and  knowledge  gained  about  the  task 
+completed 
+technical 
+report/poster/technical paper of the project in the standard format provided by the department. 
+
+through  presentation/demonstration,  work  done,  and  preparing 
+
+the 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+46 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+Course 
+Code 
+
+ 
+ 
+
+Course Name 
+
+ 
+ 
+
+HSS61 
+
+Advance Communicative 
+
+English 
+
+ 
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+
+L 
+
+2 
+
+T 
+
+2 
+
+P 
+
+-- 
+
+ISE* 
+
+100 
+
+Credits Assigned 
+
+L 
+
+2 
+
+T 
+
+1 
+
+P 
+
+-- 
+
+Examination Scheme 
+
+MSE 
+
+-- 
+
+ESE 
+
+-- 
+
+Total 
+
+3 
+
+Total 
+
+100 
+
+ 
+* ISE will be evaluated on the basis of marks scored in tutorials, out of 100.  
+
+Pre-requisite Course Codes 
+
+The learners will be able to 
+
+ 
+ 
+ 
+
+Course Outcomes 
+
+ 
+Module 
+No. 
+
+ 
+
+1 
+
+Placement Skills 
+
+2 
+
+Critical Thinking 
+
+Skills 
+
+ 
+3 
+
+Communication 
+
+through social media 
+
+CO1  Acquire skills for succeeding in job placements and ompetitive 
+
+exams 
+
+CO2  Encourage reading and evaluating critically 
+CO3  Develop proficiency in the use of spoken and written 
+
+communication for professional purposes 
+
+CO4  Communicate using social media 
+
+Topics 
+
+Unit 
+No. 
+
+1.1 
+1.2 
+1.3 
+1.4 
+1.5 
+
+1.6 
+
+2.1 
+
+2.2 
+3.1 
+
+3.2 
+
+3.3 
+
+Verbal Ability skills for competitive exam 
+Resume Writing& Cover Letter 
+Group Discussions 
+Team Building skills / Work 
+Case studies / pitching a startup 
+
+Interview skills 
+ 
+Understanding news coverage and critical analysis of 
+the same 
+Critical Writing Skills – Argumentative Writing 
+Sourcing information through digital media 
+
+Oral and written communication using social media. 
+Vlog and Blog 
+
+Corporate communication using social media like 
+messenger applications, etc. 
+
+Ref.  Hrs. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+3 
+2 
+3 
+2 
+2 
+
+2 
+
+2 
+
+2 
+2 
+
+4 
+
+2 
+
+ 
+
+ 
+
+TOTAL  26 
+
+47 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Tutorial Details 
+
+Ref.  Marks 
+
+ 
+
+Tutorial 
+No. 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+Aptitude Test – Verbal Ability 
+Resume Writing 
+Cover Letter 
+Group Discussion 
+Presentation 
+Mock Interview 
+Social media writing 
+
+ 
+
+Reference Books: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TOTAL MARKS 
+
+10 
+10 
+10 
+20 
+20 
+10 
+20 
+100 
+
+1.  Michael McCarthy and Felicity O‟Dell. English Vocabulary in Use. India: Cambridge University    
+     Press, 1999. 
+2.  John Eastwood. Oxford Practice Grammar. India: Oxford, 1999. 
+3.  Geoffrey Leech, Et al. English Grammar for Today. UK: Palgrave, 2005. 
+4.  Malhotra, Ankur. Campus Placement: A comprehensive guide. McGraw Hill Education, 2016  
+5.  Hayes, John. Interpersonal Skills at Work.McGraw Hill Education, 2002  
+6.  Alda, Alan. If I Understood You, Would I Have This Look on My Face? 
+     My Adventures in the Art and Science of Relating and Communicating. Random House. 2017  
+7.  West, Steven. Critical Thinking Skills: Practical Strategies for Better Decision making, Problem-   
+     Solving and Goal Setting.   
+8.  Isaac, William. Dialogue: The art of thinking together. Crown Business. 2008  
+9.  Chambers, Harry. Effective Communication Skills for Scientific and Technical   
+      Professionals Paperback. Basic Books. 2000  
+10. Hamper, Robert J. & Baugh, L. Sue. Handbook for writing proposals. McGraw-Hill Education.   
+      2010.  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+48 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+OE1 
+
+Consumer Electronics 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+P 
+L 
+1 
+2 
+
+T 
+-- 
+
+ISE 
+40 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+-- 
+
+P 
+1 
+
+Examination Scheme 
+
+MSE 
+
+10 
+
+ESE 
+20 
+
+Total 
+
+2 
+
+Total 
+
+70 
+
+Pre-requisite Course Codes  ES1: Basic Electrical and Electronics Engineering 
+After successful completion of the course, student will be able to 
+
+Course 
+
+Outcomes 
+
+CO1  List and classify devices used in consumer products based on their specifications, 
+identify  sub-systems  of  consumer  electronic  products,also  choose  and  use 
+proper interface standard for a given consumer electronic product 
+Illustrate  working  principle  of  consumer  electronic  products  and  carry  out 
+basic tests to identify their correct operation. 
+
+CO2 
+
+CO3  Experiment  with  Haptics,  Multitouch  devices,  Device  interconnects  and 
+peripherals and also suggest modification in consumer electronic product using 
+modern tools to enhance user experience 
+
+CO4  Assemble  subsystem  of  Television  set  and  analyze  technology  used  in  audio 
+
+systems. 
+
+CO5  Demonstrate working  principal  of Healthcare and home electronics consumer 
+
+products. 
+
+CO6  Demonstrate  working  principal  consumer  electronic  products  used 
+
+in 
+
+Occupational safety. 
+
+Unit No.  Topics 
+
+1 
+1.1 
+
+1.2 
+
+1.3 
+1.4 
+2 
+2.1 
+2.2 
+
+Introduction to consumer Electronic. 
+Haptics  and  Multi-touch  Devices:  Introduction  to  Touch  panel, 
+Capacitive Touch screen, Light pen. 
+Displays  for  Consumer  Electronics:  OLED  Display,  Alphanumeric 
+Display, LED Display, LCD Display. 
+Miscellaneous Devices: Mice, Trackballs, Virtual Reality. 
+Gaming Devices; Joystick. 
+Device Interconnects and Peripherals. 
+Introduction to Serial Interfaces, RS-232, I2C, SPI, USB. 
+Introduction to ZIG-BEE Standards, WI-FI, Bluetooth, Thunderbolt, 
+JTAG and various Interconnection standards. 
+
+Ref.  Hrs. 
+
+4 
+
+02 
+
+3 
+
+02 
+
+49 
+
+ 
+
+Module 
+No. 
+ 
+ 1 
+
+2 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+3 
+3.1 
+
+3.2 
+
+4 
+4.1 
+
+4.2 
+
+5 
+5.1 
+5.2 
+
+5.3 
+
+6 
+6.1 
+6.2 
+6.3 
+
+7 
+7.1 
+7.2 
+
+Interactive and Immersive TV. 
+Introduction  to  Television,  PAL  TV  System,  NTSC  TV  System, 
+SECAM TV System. 
+Advanced Television System: 3D TV, High Definition TV, Digital 
+Satellite TV, 4K TV, Plasma Displays. 
+Audio System Technologies and Home electronics. 
+Introduction  to  Audio  system  and  major  components  of  Audio 
+System,  Microphone,  Loudspeaker,  HI-FI,  Stereophony,  Public 
+Address System, Noise Cancelling Headphones. 
+Introduction to Home Electronics, Microwave Oven, Refrigerator, Air 
+Conditioning System, Washing Machine. 
+
+Healthcare Electronics. 
+Wearable Devices: Activity Trackers Smart Watch, Smart Glass. 
+Fitness Devices: Blood Pressure Monitor, Digital Weighing Scale, 
+Digital Glucometer. 
+Biomedical Devices: ECG Sensor, EKG Sensor, EMG Sensor, 
+Respirators. 
+Consumer Electronics used in Occupational Safety. 
+Printers, Scanners, Projection System. 
+Bio-metric Devices: Finger Print Scanner, IRIS Scanner. 
+Security  Devices:  CCTV, Electronics  Lock,  Video  Intercom  System, 
+Door bell.  
+New and Emerging Technologies. 
+E-platforms for Selecting Consumer Electronics. 
+E-payments. 
+
+1 
+
+02 
+
+1 
+
+02 
+
+02 
+
+6 
+
+ 
+
+2 
+
+02 
+
+5 
+
+02 
+
+Total  14 
+
+ 
+
+ 
+
+3  
+
+ 4 
+
+ 
+5 
+
+6 
+
+7 
+
+ 
+Teaching Learning Methodology in Laboratory: Role Play Model 
+
+a)  Instructor:  
+
+Responsibilities:  
+ 
+
+ 
+
+ 
+
+Explanation of theoretical background 
+To provide required sample formats 
+To guide students in identification of appropriate online material. 
+Supervision and assessment of the overall activity  
+
+b)  First Group of students : Customer 
+
+ 
+
+Responsibilities:  
+
+To finalize specifications of instrument to be purchased 
+Prepare request for quotations 
+Prepare the comparative statement 
+Preparation for purchase order 
+
+c)  Second Group of students: Manufacturer/Vendor 
+
+Responsibilities:  
+
+To maintain the specifications of the manufactured instruments 
+To submit quotations including all applicable taxes 
+
+50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+
+ 
+
+To prepare Invoice as per purchase order 
+
+ 
+ 
+
+d)  Third Group of Students: Sales/Service Engineer 
+
+Responsibilities:  
+
+To demonstrate capabilities of various instruments and convince 
+customer to purchase a particular instrument 
+To prepare Delivery Challan   
+Install the instruments and prepare Installation Report,  
+Demonstrate all the functions and uses of the instrument 
+ 
+
+Exp. No. 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+4 
+3 
+
+5 
+
+5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Experiment on Haptics and Multi-touch devices. 
+Experiment  on  Device 
+Bluetooth). 
+
+interconnects  and  Peripherals  (USB  and 
+
+Experiment on assembly of parts used in Television set. 
+Experiment on Audio system technology. 
+
+Experiment on Home electronics Consumer products. 
+Experiment on Wearable and fitness devices. 
+Experiment on Biomedical data acquisition devices. 
+
+Experiment on occupational safety in electronic devices. 
+
+1 
+1 
+
+2 
+6 
+5 
+
+2 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+Assessment Marks 
+
+40 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+ 
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+
+ 
+
+Recommended Books: 
+1.  S. P. Bali, “Consumer Electronics”, Pearson Education, 1st Edition, 2005. 
+2.  Peter H. Gregory, “Biometrics for Dummies”, Wiley Publishing Inc., 2008. 
+3.  N. Mathivanan, “PC Based Instrumentation: Concepts and Practices”, Prentice Hall Learning  
+     India Pvt. Ltd., 1st Edition, 2007. 
+4.  Deborah Morley, “Understanding Computers: Today and Tomorrow”, Course Technology, 16th   
+     Edition, 2016. 
+5.  N. Jilovec, “E-Business: Thriving in Electronics Marketplace”, 29th Street Press, 1st Edition,   
+     2000. 
+6.  Sanjay Mishra, “Wearable Android: Android Wear and Google FIT App Development”, Wiley  
+     Blackwell publication, 1st Edition, 2015.  
+
+ 
+ 
+ 
+
+ 
+
+51 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+L 
+1 
+
+T 
+-- 
+
+P 
+2 
+
+OE2 
+
+Robotic Vision 
+
+ISE 
+40 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+-- 
+
+P 
+1 
+
+Examination Scheme 
+
+MSE 
+
+10 
+
+ESE 
+20 
+
+Total 
+
+2 
+
+Total 
+
+70 
+
+ 
+Pre-requisite Course Codes  EL42: Principle of Control Systems 
+At the end of the course students will be able to 
+ 
+       Course Outcomes 
+
+CO1  Discuss the fundamentals of Robotics 
+CO2  Apply direct and inverse kinematics algorithms  
+CO3  Justify the need of vision algorithms 
+
+ 
+
+Module 
+No. 
+ 
+1 
+
+2 
+
+3  
+
+ 4 
+
+Unit 
+No. 
+1 
+1.1  Robot Classification, Robot Components, Degrees of freedom, 
+
+Fundamentals of Robotics 
+
+Topics 
+
+Joints, Coordinates, Coordinate frames 
+
+Forward and Inverse kinematic equation, D-H Representation 
+
+1.2  Transformation matrix, inverse Transformation matrix,  
+1.3  Screw Transformation, Link co-ordinates 
+2 
+2.1  The Arm Matrix  
+3 
+3.1 
+3.2 
+3.3  Stereo Vision  
+4 
+4.1  Object detection and recognition 
+4.2  Object Classification 
+
+Introduction to Robot Vision 
+Image Representation, Edge Detection 
+3D image to 2D image Transformation 
+
+Edge Detection , Template Matching, 
+
+Ref.  Hrs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+4 
+
+3 
+
+3 
+
+Total 
+
+ 
+
+14 
+
+Expt. No. 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+
+1 
+2 
+
+3  
+ 
+
+Identify the types of robot based on configuration and application. 
+Using the information based on length of links and no. of joints, 
+specified angles verify the DH algorithm for forward kinematics 
+and also to determine the maximum and minimum position of 
+links. 
+Design a robots drive system and its end effectors for a given 
+application. 
+
+1,2 
+1,2 
+
+5 
+5 
+
+1,2,3 
+
+5 
+
+52 
+
+ 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Verify the transformation (Position and orientation) with respect to 
+gripper and the coordinate system using any simulation software.  
+Estimation of accuracy, repeatability and resolution of a given 
+robotic manipulator.  
+ Robot programming exercises (Point-to-point and continuous path 
+programming) 
+Edge detection  
+Object Detection  
+Object recognition using Template Matching 
+Vision based Application development 
+
+Eight Experiments  Total Marks 
+
+1,2 
+
+1,2 
+
+1,2,3 
+
+ 
+ 
+ 
+ 
+ 
+
+5 
+
+5 
+
+5 
+
+4 
+4 
+4 
+4 
+40 
+
+ 
+
+4 
+
+5 
+
+6 
+ 
+7 
+8 
+9 
+10 
+
+ 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+ 
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+
+ 
+
+ 
+Recommended Books: 
+ 
+1.  Robert Shilling, Fundamentals of Robotics - Analysis and control, Prentice Hall of IndiaFourth  
+     edition [ISBN-81-203-1047-0] 
+2.  Howie Choset, Kevin M. Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, Lydia E. 
+3.  Mittal R.K. & J. Nagrath, ”Robotics and Control”,TataMcGraw Hill, 2003 [ISBN 0-07-048293-4] 
+4.  Milan Sonka, Vaclav Hlavac and Roger Boyle,”Image Processing, Analysis and Machine   
+     Vision”, Second Edition, Thomson Brooks/Cole 2004[ISBN: 981-240-061-3] 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+53 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course 
+Code 
+
+ 
+
+Course Name 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+- 
+
+P 
+2 
+
+L 
+1 
+
+T 
+- 
+
+P 
+1 
+
+Total 
+
+2 
+
+OE3 
+
+Cyber security and Digital 
+
+Forensics 
+
+ISE 
+40 
+
+Examination Scheme 
+MSE 
+
+ESE 
+20 
+
+10 
+
+Total 
+
+70 
+
+ 
+
+ 
+
+Pre-requisite Course Codes  Computer Basics, Networking basics 
+
+Course 
+Outcomes 
+
+CO1 
+
+Identify and classify various cybercrimes with respect to organizational 
+weaknesses in order to mitigate the security risk and estimate the impact on 
+society and world 
+
+CO2  Analyze the results of vulnerability scans of vulnerability assessment and 
+
+generate report with penetration testing 
+
+CO3  Apply Information Security Standards compliance during software design and 
+
+development 
+Interpret and apply Indian IT laws in various legal issues 
+
+CO4 
+CO5  Describe the concept of Digital forensics and use various tools and techniques 
+
+CO6 
+
+used for digital forensics investigations 
+Integrate advanced security solutions and manage, provide policies, standards, 
+procedures, guidelines, policy framework, assess and mitigate risk 
+
+ 
+
+Module 
+
+No. 
+
+1 
+ 
+
+ 
+
+2 
+
+Unit 
+No. 
+1.1 
+1.2 
+
+1.3 
+
+2.1 
+
+ 
+
+2.2 
+
+ 
+
+ 
+
+ 
+
+Topics 
+
+Introduction to Cyber Security 
+Cybercrime definition and origins of the world, Cybercrime and 
+information security, Classifications of cybercrime, 
+ Cybercrime and the Indian ITA 2000, A global Perspective on 
+cybercrimes. 
+Cyber offenses & Cybercrimes: 
+How criminal plan the attacks, Social Engg, Cyber stalking, Cyber 
+café and Cybercrimes, Botnets, Attack vector,Credit Card Frauds in 
+Mobile and Wireless Computing Era, Security,Challenges Posed by 
+Mobile Devices 
+Tools and Methods Used in Cybercrime: 
+Phishing, Password Cracking, Keyloggers and Spywares, Virus and 
+Worms, Steganography, DoS and DDoS Attacks, SQL Injection, 
+Buffer Over Flow, Attacks on Wireless Networks,Identity Theft (ID 
+Theft) 
+
+Ref.  Hrs. 
+
+1,2 
+1,2 
+
+1 
+1 
+
+1,2 
+
+1 
+
+1,2 
+
+1 
+
+1.2 
+
+1 
+
+54 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Security Risk Assessment and Risk Analysis: 
+Risk Terminology, Laws, Mandates, and Regulations,Risk 
+Assessment Best Practices,The Goals and Objectives of a Risk 
+Assessment, Best Practices for Quantitative and Qualitative Risk 
+Assessment. 
+Vulnerability Assessment and Penetration Testing (VAPT): 
+VAPT An Overview,Goals and Objectives of a Risk and 
+Vulnerability Assessment, 
+Vulnerability Assessment Phases-Discovery,Exploitation/Analysis 
+, Reporting 
+Penetration Testing Phases-Discover/Map,Penetrate 
+Perimeter,Attack Resources, Network and Web VAPT Process 
+Cyber Security Laws and Legal Perspectives 
+
+Cyber Crime and Criminal Justice: Penalties, Adjudication and 
+Appeals Under the IT Act, 2000, IT Act. 2008 and its Amendments 
+Information Security Standard compliances: 
+SOX, GLBA, HIPAA, ISO, FISMA, NERC, PCI-DSS 
+Digital Forensics: 
+Need for forensics, Cyberforensics and Digital Evidence 
+Digital Forensics Life cycle, Computer forensics investigation, 
+setting-up forensics laboratory, Special Tools and Techniques, 
+Forensics Auditing and Compliance Requirements,Antiforensics  
+Forensics of Hand-held devices,Tool-kits for Hand-held device 
+forensics,Techno-Legal Challenges with Evidence from Hand-held 
+Devices 
+
+1 
+
+7,8,
+10 
+
+7,8,
+10 
+
+7.8,
+10 
+
+1,2,
+4,6 
+1,2,
+4,6 
+1,2,
+4,6 
+1,2 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1,2 
+
+1 
+
+1,2 
+
+1 
+
+Total  14 
+
+ 
+
+3 
+
+3.1 
+
+ 
+
+ 
+
+3.2 
+
+3.3 
+
+4 
+
+4.1 
+
+ 
+
+ 
+
+4.2 
+
+4.3 
+
+5 
+
+5.1 
+
+ 
+
+ 
+
+5.2 
+
+5.3 
+
+ 
+ 
+Teaching Learning Methodology in Laboratory: Role Play Model 
+a) Instructor: 
+Responsibilities: Explanation of theoretical background 
+
+   To provide required course material 
+
+                           To guide students in identification of appropriate online material. 
+                           Supervision and assessment of the overall activity 
+b) First Group of students: Offensive and Defensive  
+Responsibilities:  To define cybercrime and classification of cybercrimes 
+                             List the tools and methods used in cybercrimes 
+                             Prepare the list best cybersecurity practices 
+ 
+ 
+ 
+
+ 
+
+55 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+                               
+c) Second Group of students: Vulnerability Assessor and Penetration Tester (VAPT) 
+Responsibilities: To assess the vulnerabilities of systems (OS,Network infrastructure etc) 
+                            To carry out penetration testing and reporting 
+                            To abide by regulatory compliance and security standards 
+      
+ 
+d) Third Group of Students: Forensic Investigator (FI) 
+Responsibilities: To setup laboratory for forensics 
+                            To use tools and techniques of digital forensics  
+                            To preserve the evidence  
+                            Demonstrate the forensic investigation process 
+ 
+
+Exp. No 
+
+Suggested List of Experiments 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Network commands and utilities 
+Install and configure Virtual Environment 
+Information Gathering,Sniffing and scanning 
+Vulnerability Scanning  and Vulnerability Assessment  
+Penetration Testing using Metasploit  
+Firewalls and Intrusion Detection System (IDS) 
+Encryption Tools 
+Forensics Tools and Utilities 
+
+Refer.  Marks 
+13,15 
+14 
+13,15 
+13,15 
+16 
+13 
+13 
+13 
+
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+
+Assessment Marks  40 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+ 
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+Recommended Books: 
+
+1.  Nina Godbole, Sunit Belapure, Cyber Security, Wiley India, New Delhi. 
+2.  The Indian Cyber Law by Suresh T. Vishwanathan; Bharat Law House New Delhi 
+3.  The Information technology Act, 2000; Bare Act- Professional Book Publishers, NewDelhi. 
+4.  Cyber Law & Cyber Crimes By Advocate Prashant Mali; Snow White Publications, Mumbai 
+5.  Nina Godbole, Information Systems Security, Wiley India, New Delhi 
+6.  Kennetch J. Knapp, Cyber Security & Global Information Assurance Information Science 
+     Publishing. 
+7.  Michael Gregg & David Kim,Inside Network Security Assessment: Guarding Your IT 
+     Infrastructure, Pearson Publication 
+8.  M. L. Srinivasan, CISSP in 21 Days - Second Edition PACT Publication 
+9.  Charles P. Pfleeger and Shari Lawrence Pfleeger, Security in Computing, Pearson Publication 
+ 
+ 
+ 
+
+ 
+
+56 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+ 
+10.  Douglas J. Landoll, The Security Risk,Assessment Handbook-Second Edition ,Auerbach 
+       Publications 
+11.  Websites for more information is available on : The Information Technology ACT, 2008-TIFR :    
+       https://www.tifrh.res.in 
+12.  https://www.sans.org/reading-room/whitepapers/compliance/compliance-primer-professionals-  
+       33538 
+13.  Open Source Security Tools: A Practical Guide to Security Applications by Tony Howlett,    
+       Pearson Education 
+14.  https://www.virtualbox.org 
+15.  Hands-On Information Security Lab Manual by Michael Whitman, Cengage publication 
+16.  https://www.offensive-security.com/metasploit-unleashed/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+57 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+- 
+
+P 
+2 
+
+L 
+1 
+
+T 
+- 
+
+P 
+1 
+
+Total 
+
+2 
+
+OE4 
+
+Internet of Things 
+
+ISE 
+40 
+
+ 
+
+Pre-requisite Course Codes 
+
+ 
+
+Examination Scheme 
+MSE 
+
+ESE 
+20 
+
+10 
+
+Total 
+
+70 
+
+CO1  Describe IoT value chain structure (device, data cloud), application areas, IoT 
+
+sensors and technological challenges faced by IoT devices, with a focus on 
+wireless, energy, power, RF and sensing modules. 
+
+Course 
+Outcomes 
+
+CO2  Describe the Architectural Overview of IoT, Reference Architecture and Real 
+
+World Design Constraints and various IoT Protocols ( Datalink, Network, 
+Transport, Session, Service) 
+
+CO3  Apply the concepts of big data analytics, Internet of things and implement 
+
+smart systems. 
+
+Topics 
+
+Internet of Things: Internet of Things Promises–Definition– 
+Scope–Sensors for IoT Applications–Structure of IoT– IoT 
+Map Device. 
+Seven Generations of IoT sensors to Appear:Industrial 
+sensors – Description & Characteristics–First Generation – 
+Description & Characteristics–Advanced Generation – 
+Description & Characteristics–Integrated IoT Sensors – 
+Description & Characteristics–IoT Generation Roadmap. 
+Technological Analysis: Wireless Sensor Structure–Energy 
+Storage Module–Power Management Module–RF Module–
+Sensing Module. IoT Development Examples: ACOEM Eagle 
+– EnOcean Push Button – NEST Sensor – Ninja Blocks - 
+Focus on Wearable Electronics 
+IoT Architecture and Protocols: IoT-An Architectural 
+Overview– Building an architecture, Main design principles 
+and needed capabilities, An IoT architecture outline, standards 
+considerations. M2M and IoT Technology Fundamentals- 
+Devices and gateways, Local and wide area networking, Data 
+management, Business processes in IoT, Everything as a 
+Service(XaaS), M2M and IoT Analytics, Knowledge 
+Management. 
+ 
+
+Ref. 
+
+1,2,3 
+
+Hrs
+. 
+1 
+
+1,2,3 
+
+1 
+
+1,2,3 
+
+2 
+
+5,6,8 
+
+2 
+
+58 
+
+ 
+
+ 
+
+Unit 
+Module 
+No. 
+No. 
+1[CO1]  1.1 
+
+ 
+
+ 
+
+1.2 
+
+1.3 
+
+2[CO2]  2.1 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+ 
+
+ 
+
+2.2 
+
+2.3 
+
+2.4 
+
+3[CO3]  3.1 
+
+ 
+
+3.2 
+
+ 
+ 
+
+IoT Data Link Layer & Network layer Protocols: 
+PHY/MAC Layer(3GPP MTC, IEEE 802.11, IEEE 802.15), 
+WirelessHART,Z-Wave,Bluetooth Low Energy, Zigbee Smart 
+Energy, DASH7 - Network Layer-IPv4, IPv6, 6LoWPAN, 
+6TiSCH,ND, DHCP, ICMP, RPL, CORPL, CARP. 
+Transport & Session Layer Protocols:Transport Layer 
+(TCP, MPTCP, UDP, DCCP, SCTP)-(TLS, DTLS) – Session 
+Layer-HTTP, CoAP, XMPP, AMQP, MQTT 
+Service Layer protocols & Security: Service Layer -
+oneM2M, ETSI M2M, OMA, BBF – Security in IoT Protocols 
+– MAC 802.15.4 , 6LoWPAN, RPL, Application Layer. 
+ Data Analytics for IoT 
+Introduction 
+Apache Hadoop  
+MapReduce Programming Model  
+Hadoop MapReduce Job Execution  
+MapReduce Job Execution Workflow  
+Hadoop Cluster Setup  
+Using Hadoop MapReduce for Batch Data Analysis  
+Hadoop YARN  
+Apache Spark  
+Using Apache Storm for Real-time Data Analysis  
+REST-based approach  
+WebSocket-based approach  
+Structural Health Monitoring Case Study  
+ 
+
+Total 
+ 
+Recommended Books: 
+
+7,8 
+
+1 
+
+7,8 
+
+7,8 
+
+8,9 
+
+8,9 
+
+2 
+
+1 
+
+1 
+
+3 
+
+14 
+
+[1] Editors Ovidiu Vermesan Peter Friess,'Internet of Things – From Research and Innovation to 
+Market. 
+[2] N. Ida, Sensors, Actuators and Their Interfaces, Scitech Publishers, 2014. 
+[3] Dr. Guillaume Girardin , Antoine Bonnabel, Dr. Eric Mounier, 'Technologies & Sensors for 
+the  Internet  of  Things  Businesses  &  Market  Trends  2014  -  2024',Yole  Développement 
+Copyrights ,2014 
+[4] Jan Holler, VlasiosTsiatsis, Catherine Mulligan, Stefan Avesand, StamatisKarnouskos, David 
+Boyle,  “From  Machine-to-Machine  to  the  Internet  of  Things:  Introduction  to  a  New  Age  of 
+Intelligence”, 1 st Edition, Academic Press, 2014 
+[5]  Peter  Waher,  “Learning  Internet  of  Things”,  PACKT  publishing,  BIRMINGHAM  – 
+MUMBAI 
+[6] Bernd Scholz-Reiter, Florian Michahelles, “Architecting the Internet of Things”, ISBN 978-
+3-642-19156-5 e-ISBN 978-3-642-19157-2, Springer 
+[7] Daniel Minoli, “Building the Internet of Things with IPv6 and MIPv6: The Evolving World 
+of M2M Communications”, ISBN: 978-1-118- 47347-4, Willy Publications 
+
+59 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+[8] Arshdeep Bahga and Vijay Madisetti Internet of Things: A Hands-on Approach  
+[9]  Stackowiak,  R.,  Licht,  A.,  Mantha,  V.,  Nagode,  L.,”  Big  Data  and  The  Internet  of  Things 
+Enterprise Information Architecture for A New Age”, Apress, 2015. 
+ 
+
+Instructional Method and Pedagogy:  At the start of course, the course delivery pattern, 
+prerequisite  of  the  subject  will  be  discussed.  Lectures  will  be  conducted  with  the  aid  of  multi-
+media  projector,  black  board,  OHP  etc.  Attendance  is  compulsory  in  lecture  and  laboratory 
+which carries 40 marks in overall evaluation. One internal  exam will be conducted as a part of 
+internal theory evaluation. Assignments based on the course content will be given to the students 
+for  each  unit  and  will  be  evaluated  at 
+interval  evaluation.  Surprise 
+tests/Quizzes/Seminar/tutorial  will  be  conducted  having  a  share  of  10  marks  in  the  overall 
+internal  evaluation.  The  course  includes  a  laboratory,  where  students  have  an  opportunity  to 
+build an appreciation for the concepts being taught in lectures. Experiments shall be performed 
+in the laboratory related to course contents. 
+
+regular 
+
+ 
+Exp. 
+No 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+ 
+
+Experiment Details 
+
+Ref  Marks 
+
+Introduction to DHT11 Temperature and Humidity measurement, 
+Ultrasonic Sensor,PIR Motion sensor. 
+Introduction to Actuators (DC Motor, Servo Motor and Relay). 
+Introduction to Bluetooth Technology. 
+Outdoor Temperature & Humidity Monitoring using DHT11. 
+Motion Detection using PIR sensor. 
+Distance Measurement using Ultrasonic Sensor. 
+Practical with Servo Motor and Relay. 
+Interfacing HC-05 Bluetooth Device with Arduino,Raspberry 
+Development Board.. 
+Home automation using Voice Commands & Bluetooth. 
+Introduction to NodeMCU (ESP8266-12E). 
+Introduction to NodeMCU firmware. 
+NodeMCU as Server and Client. 
+NodeMCU as an Access Point. 
+Mobile Communication using Sim800 (GSM/GPRS Module) 
+Introduction to various Notification Servers. 
+Control of equipment using ESP8266+NODE MCU Webserver. 
+Automatic Phone/Email Notification based on Event trigger using 
+IFTTT. 
+NodeMCU as an Access Point. 
+Mobile Weather Station using NodeMCU. 
+Home automation using Sim 800 using Mobile Communication. 
+Introduction to IOT Cloud Platforms and API 
+TCP /IP/HTTP  Protocol  
+Client and Server Communication. 
+Introduction Smart Bridge, ThingSpeak, Google Firebase IOT Cloud . 
+
+1,2,
+3,4 
+
+1,2,
+3,4 
+
+1,2,
+3,4 
+
+1,2,
+3,4 
+
+1,2,
+3,4 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+60 
+
+6 
+
+7 
+
+8 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Uploading sensor data to Cloud using API‟s. 
+Data Visualization, Data Analytics, Plugins, Import & Export 
+Sending and Receiving Data from IOT Cloud using ESP8266 
+Introduction to MIT App Inventor. 
+Sending and Receiving Data from IOT Cloud using ESP8266 
+Uploading Temperature & Humidity data to ThingSpeak Cloud & 
+Ubidots cloud using wifi.Building Mobile Application using MIT App 
+Inventor. 
+Prototyping and Building. Use cases: 
+Smart City 
+Smart Water 
+Smart Environment 
+Smart Health (Remote) 
+Smart Waste Management 
+Smart Agriculture 
+Smart Safety 
+Smart Supply Chain & Logistics 
+Smart Manufacturing / Industrial Iot 
+Prototyping and Building. Use cases: 
+Smart City 
+Smart Water 
+Smart Environment 
+Smart Health (Remote) 
+Smart Waste Management 
+Smart Agriculture 
+Smart Safety 
+Smart Supply Chain & Logistics 
+Smart Manufacturing / Industrial Iot 
+
+1,2,
+3,4 
+
+1,2,
+3,4 
+
+5 
+
+5 
+
+1,2,
+3,4 
+
+5 
+
+Assessment Marks  
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+40 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+
+ 
+
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+References: 
+1.Raspberry Pi IoT Projects: Prototyping Experiments for Makers by John C. Shovic. 
+2.Internet of Things with ESP8266 by Marco Schwartz 
+3.IoT: Building Arduino-Based Projects by Brian Russell, Peter Waher, and Pradeeka Seneviratne. 
+4. Designing the Internet of Things by Adrian McEwen and Hakim Cassimally. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+61 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+
+Course 
+Code 
+
+Course Name 
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+L 
+1 
+
+T 
+-- 
+
+P 
+2 
+
+OE5 
+
+Fundamentals of 
+
+Computational Intelligence 
+
+ISE 
+40 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+-- 
+
+P 
+1 
+
+Examination Scheme 
+
+MSE 
+
+10 
+
+ESE 
+20 
+
+Total 
+
+2 
+
+Total 
+
+70 
+
+ 
+Course Overview (Theory): 
+This open elective course is designed to introduce the concepts of computational intelligence and its 
+application. It is structured to give students an overview of three fundamental topics which form the 
+basis of Computational Intelligence: neural networks, fuzzy logic, natural language processing, and 
+statistics. Students will be able to understand the working of different types of models according to 
+different  types  of  training.  Fuzzy  logic  is  included  to  enable  students  to  design  their  own  fuzzy 
+control systems using all the various concepts taught. They will also learn about the basics and steps 
+involved  in  Natural  Language  Processing  which  can  be  employed  in  most  applications.  To  learn 
+about which method fits their data set best, they will be introduced to the application of statistics to 
+computational  intelligence.  Thus  this  open  elective  is  focus  on  inspiration,  design,  theory,  and 
+practical aspects of implementing procedures to solve real-world problems. 
+
+The concepts taught in the theory must be implemented in the form of various problem statements in 
+the practical. There will be four experiments based on supervised learning, CNN, Fuzzy controllers 
+and  model-fit  calculation  techniques.  Emphasis  is  given  to  the  mini-project  which  carries  a  high 
+weightage. Students are required to implement most of the concepts learned throughout the practical 
+in the mini-project by selecting a suitable problem statement. The mini-project will be graded at two 
+stages. Special emphasis is given to the mini-project at the end of the practical sessions which will 
+be based on computational intelligence. 
+
+Pre-requisite Course Codes  Mathematics, Probability ,Programming languages - Java/C++ 
+
+Course Outcomes 
+
+CO1 
+
+Identify  suitability  of  different  learning  types  for  different 
+scenarios. 
+
+CO2  To  study  Neural  Networks  and  Convolutional  Neural 
+
+Networks 
+
+CO3  To design fuzzy controllers for various applications. 
+CO4  To study Natural Language Processing 
+CO5  To  apply  computational  intelligence  technique  to  solve  real 
+
+world problems. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+62 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Topics 
+
+Ref.  Hrs. 
+
+0.5  
+2.5 
+
+1,6 
+1,2,7
+,8 
+
+ 
+04 
+
+ 
+1,2,3
+,7,8 
+
+4 
+
+ 
+
+5 
+
+03 
+
+Total  14 
+
+Unit 
+No. 
+1 
+2 
+
+2.1 
+
+2.2 
+2.3 
+3 
+3.1 
+
+3.2 
+
+ 
+
+Module 
+No. 
+
+1 
+ 
+2 
+
+3  
+
+4 
+
+ 5 
+
+Introduction to Computational Intelligence : Concepts 
+Basics of Artificial Neural Networks  and Convolutional 
+Neural Networks 
+Short History of Neural  Networks,  Rosenblatt‟s  Neuron, Types 
+of  Learning 
+(Supervised,  Unsupervised,  Reinforcement), 
+Activation Functions. 
+Basic terminologies and architecture of ANN 
+Basic architecture of CNN 
+Fuzzy Controllers 
+Crisp  Logic,  Fuzzy  logic,  Fuzzy  Membership  functions  and 
+operators 
+Fuzzy Inference System and its types, Fuzzification, 
+Defuzzification, Designing Fuzzy logic control systems. 
+Basics of Natural Language Processing 
+Basic terminologies and steps involved in NLP 
+
+4 
+4.1 
+4.2  Applications of NLP 
+5 
+5.1 
+
+Statistics in Computational Intelligence 
+Calculation of standard deviation, root mean square, mean 
+absolute error etc for measuring the fitness of a model 
+
+ 
+Exp. No. 
+
+Suggested List of Experiments 
+
+1 
+
+2 
+3 
+4 
+5 
+
+Experiment  on  Supervised  Learning  (Back  Propagation  Neural 
+Network) 
+Experiment on studying different CNN architectures 
+Experiment on designing a Fuzzy Controller 
+Experiment on measuring fit and error parameters for a model 
+Mini project 
+
+Marks 
+
+5 
+
+5 
+5 
+5 
+20 
+
+Ref. 
+1,2,7,8 
+
+1,2 
+2,3,6,7,8 
+5 
+Online 
+Recomme
+nded 
+Books  
+
+Assessment Marks 
+
+40 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+
+ 
+
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+ 
+ 
+ 
+
+63 
+
+ 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Recommended Books: 
+ 
+1.  Russell Eberhart and Yuhui Shi - Computational Intelligence: Concepts to Implementations  
+     (2007). 
+2.  FakhreddineKarray and Clarence de Silva - Soft Computing and Intelligent Systems Design   
+     (2004) 
+3.  AndriesEngelbrecht - Computational Intelligence: an Introduction (2007) 
+4.  Ela Kumar - Natural Language Processing (2013) 
+5.  Peter Bruce and Andrew Bruce - Practical Statistics for Data Scientists (2017). 
+6.   James M. Keller, Derong Liu, David B. Fogel, Fundamentals of Computational Intelligence:  
+     NeuralNetworks, Fuzzy Systems, and Evolutionary Computation, IEEE Press series on  
+     Computational Intelligence,Wiley Publication, July 2016. 
+7.  S.N.Sivanandam, S.N.Deepa "Principles of Soft Computing" Second Edition, Wiley Publication. 
+8.  Samir Roy and Chakraborty, “Introduction to soft computing”, Pearson Edition. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+64 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+ 
+ 
+
+Teaching 
+Scheme 
+
+(Hrs/week) 
+L 
+1 
+
+T 
+-- 
+
+P 
+2 
+
+OE6 
+
+Fundamentals of  Data 
+
+Structures and Algorithms 
+
+ISE 
+40 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+-- 
+
+P 
+1 
+
+Examination Scheme 
+
+MSE 
+
+10 
+
+ESE 
+20 
+
+Total 
+
+2 
+
+Total 
+
+70 
+
+ 
+Pre-requisite 
+Course Codes 
+
+ES4: Programming Methodology and Data Structures 
+
+After successful completion of the course student will be able to 
+
+Course 
+
+Outcomes 
+
+ 
+Module 
+No. 
+1 
+
+Unit 
+No. 
+1.1 
+
+ 
+
+Implement various operations of nonlinear data structures. 
+
+CO1 
+CO2  Apply the concepts of Trees to a given problem. 
+CO3  Analyze  time and space complexity of an algorithm 
+CO4  Apply divide and conquer strategy to solve problems 
+
+Topics 
+
+Introduction to Data Structures 
+Introduction, Review of Stack, Queue and Linked List.  
+
+2 
+
+2.1  Searching And sorting: 
+
+Searching : Linear Search, Binary Search. 
+Sorting: Insertion sort, Merge sort. 
+
+3 
+
+3.1  Introduction to Algorithms 
+
+Algorithm  development,  Performance  analysis,  space  and  time 
+complexity. 
+
+4 
+
+4.1  Growth of function 
+
+Big –Oh ,Omega , Theta notation 
+Analysis of insertion sort. 
+
+5.1  Divide and Conquer Approach 
+
+Analysis of Merge sort 
+
+6.1  Binary Trees 
+
+5 
+
+6 
+
+Representation, Binary Search Tree and its operations,   
+Binary Tree Traversal, AVL Tree, B-tree 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Ref.  Hrs. 
+
+ 
+1,2 
+
+1,2 
+
+ 
+01 
+
+03 
+
+3,4 
+
+02 
+
+3,4 
+
+03 
+
+3,4 
+
+01 
+
+1,2 
+
+04 
+
+Total  14 
+
+65 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Exp. No. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Suggested List of Experiments 
+Implementation of Linked List for a given scenario. 
+
+Ref.  Marks 
+1,2 
+
+5 
+
+Implementation of Binary Search for a given scenario. 
+
+Implementation of Merge Sort for a given scenario. 
+
+Implementation of Tree Traversal for a given scenario. 
+
+Develop an application to explore the uses of an AVL tree 
+
+Develop Search application using B-Tree. 
+
+Sorting of 2 lacs elements using Insertion and Merge sort and do the 
+analysis of algorithms. 
+
+1,2 
+
+1,2,3 
+
+1,2 
+
+1,2 
+
+1,2 
+
+3,4 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+10 
+
+Total Marks 
+
+40 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+ 
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+Recommended Books: 
+ 
+1.  Data Structures APsedocode Approach with C, Richard F. Gilberg&Behrouz A. Forouzan,  
+     second edition, CENGAGE Learning. 
+2.  Introduction to Data Structure and its Applications Jean-Paul Tremblay, P. G. Sorenson. 
+3.  Thomas H.Cormen, Charles E. Leiserson, Ronald L Rivest, Clifford Stein, “Introduction to  
+     Algorithms”, Third Edition, MIT Press, Massachusetts, 2009. 
+4.  Horowitz E, Sahni S andS.Rajasekaran, “Fundamentals of Computer Algorithms”, Second  
+     Edition, Galgotia Publications, New Delhi, 2010 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+66 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+-- 
+
+L 
+1 
+
+P 
+2 
+Examination Scheme 
+
+T 
+-- 
+
+P 
+1 
+
+Total 
+
+2 
+
+ISE 
+40 
+
+MSE 
+
+10 
+
+ESE 
+20 
+
+Total 
+
+70 
+
+Course 
+Code 
+
+OE7 
+
+Software Testing 
+
+ 
+
+Pre-requisite Course Codes 
+
+--- 
+
+At the end of the lab students will be able to 
+
+Course 
+
+Outcomes 
+
+OE7.1 
+OE7.2 
+OE7.3 
+
+OE7.4 
+OE7.5 
+OE7.6 
+
+Analyze the principles in software testing to prevent & remove bugs. 
+Design effective test cases suitable in testing. 
+Describe the variety of ways to test software and indicate the trade-offs 
+between various testing techniques. 
+Implement various test cases. 
+Apply the software testing techniques in commercial environments. 
+Able to use software testing methods and modern software testing tools 
+for their testing projects. 
+
+Topics 
+
+Software Quality 
+Verification and Validation 
+Failure, Error, Fault and Defect 
+Test Case 
+Test levels 
+Software Testing Life Cycle 
+
+Unit 
+No. 
+Introduction to Software Testing 
+1.1 
+1.2 
+1.3 
+1.4  
+1.5 
+1.6 
+Black-Box Testing 
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+
+Boundary Value Analysis 
+Equivalence class testing 
+State table based testing 
+Cause-effect graphing based testing 
+Error guessing 
+
+ 
+
+Module 
+No. 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Ref.  Hrs. 
+
+2 
+
+2 
+ 
+
+1 
+
+4 
+
+67 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+3.  White Box Testing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Need of White box Testing 
+3.1 
+Logic coverage criteria 
+3.2 
+Basis path testing 
+3.3 
+Graph matrices 
+3.4 
+Loop testing 
+3.5 
+Data flow testing 
+3.6 
+3.7  Mutation testing 
+LEVELS OF TESTING 
+4.1 
+4.2 
+4.3 
+4.4 
+4.5 
+4.6 
+4.7 
+
+Unit testing 
+Integration Testing 
+System Testing 
+Acceptance testing 
+Performance testing 
+Regression Testing 
+Ad-hoc testing, Alpha, Beta Tests 
+
+1 
+
+4 
+
+3 
+
+4 
+
+ 
+Exp. No. 
+
+Suggested List of Experiments 
+
+Ref. 
+
+Marks 
+
+Total  14 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Write the test cases for any known application.  
+Create a test plan document for any application.  
+Design Test case using boundary value analysis. 
+Design a test cases using equivalent class partitioning. 
+Study of testing tool, Win runner. 
+Study of test management tool, Test Director. 
+Test Automation using Selenium IDE. 
+Test Automation using Selenium Web driver. 
+
+1 
+1 
+1 
+1 
+2,3 
+2,3 
+2,3 
+2,3 
+
+Total 
+
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+40 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+
+ 
+
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+Recommended Books: 
+ 
+1.  Naresh Chauhan , “Software Testing Principles and Practices”, Oxford Higher Education. 
+2.  Kshirasagar Naik and Priyadarshi Tripathy, “Software Testing and quality assurance theory and 
+     practice”,  Wiley Publication. 
+3.  Srinivasan Desikan and Gopalaswamy Ramesh, “Software Testing – Principles and Practices”, 
+     Pearson education, 2006. 
+ 
+
+ 
+
+ 
+
+68 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Course Name 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+1 
+
+T 
+- 
+
+ISE  
+40 
+
+L 
+1 
+
+T 
+-- 
+
+P 
+2 
+Examination Scheme 
+ESE 
+20 
+
+MSE 
+
+10 
+
+P 
+1 
+
+Total 
+
+2 
+
+Total 
+
+70 
+
+OE8 
+
+Database Management 
+
+Systems 
+
+ 
+Pre-requisite Course Codes 
+At the end of the course students will be able to  
+
+--- 
+
+OE8.1  Design a database for real world system, choose real world problem and 
+
+map it to the solution using database techniques. 
+
+OE8.2  Construct a database using SQL. 
+OE8.3  Create normalized database using functional dependencies. 
+OE8.4  Analyze the effect of transaction over the database. 
+OE8.5  Build secure and normalize database using SQL constructs. 
+OE8.6 
+
+ Apply the connectivity techniques of database. 
+
+ 
+
+Course 
+Code 
+
+Course 
+
+Outcomes 
+
+ 
+Module 
+
+No. 
+
+1 
+
+Unit 
+No. 
+1.1 
+
+1.2 
+
+Topics 
+
+Introduction Database Concepts and ER Modeling  
+Characteristics  of  databases,  File  system  V/s  Database  system, 
+Users  of  Database  system,  DBMS  system  architecture,  Database 
+Administrator. 
+ Introduction  to  ER  model,  Benefits  of  Data  Modeling,  Types  of 
+Models,  The  Entity-Relationship  (ER)  Model,  Generalization, 
+Specialization  and  Aggregation,  Mapping  of  ER  to  Relational 
+model. 
+
+2 
+
+2.1  SQL 
+
+Overview  of  SQL,  Data  Definition  Commands,  Set  operations, 
+aggregate  function,  null  values,  Data  Manipulation  commands, 
+Data Control commands, Views in SQL, Trigger. 
+
+3.1  Normalization 
+
+Design  guidelines  for  relational  schema,  Function  dependencies, 
+Normal Forms- 1NF, 2 NF, 3NF. 
+
+4.1  Transactions  Management:  Transaction  concept,  Transaction 
+states,  ACID  properties,  Implementation  of  atomicity  and 
+durability. 
+
+3 
+
+4 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Ref.  Hrs. 
+
+1,2,3 
+
+2 
+
+2 
+ 
+
+5 
+ 
+
+3 
+ 
+
+2 
+ 
+
+1,2 
+
+1,2,3 
+
+1,2,4 
+
+Total 
+
+   14 
+
+69 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Suggested List of Experiments 
+
+Ref.  Marks 
+
+Identify  the  real  world  problem  which  can  be  mapped  to  the  database 
+using database concept. Design E-R model for the same. 
+
+Perform database administration DCL commands. 
+
+Build a database with related data using SQL. 
+
+Perform Data Manipulation using SQL. 
+
+Perform various nested queries on database. 
+
+Perform TCL operations over database. 
+
+Examine integrity of database using triggers. 
+
+Perform database connectivity using JDBC on a table. 
+
+1 
+
+1,2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+1,2 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+Total  
+
+40 
+
+ 
+Exp. No. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+ 
+ISE Evaluation: Continuous evaluation of experiments for 40 Marks 
+
+ 
+
+MSE Evaluation: Subjective evaluation for 10 Marks based on theory for one hour duration  
+ 
+ESE Evaluation: Subjective evaluation for 20 Marks based on theory for one hour duration  
+ 
+Recommended Books: 
+ 
+1.  Korth, Slberchatz, Sudarshan, “Database System Concepts”, 7th Edition, McGraw – Hill, 2010. 
+2.  Elmasri and Navathe, “Fundamentals of Database Systems”, 5th Edition, PEARSON  
+     Education, 2015. 
+3.  G. K. Gupta, “Database Management Systems”, McGraw – Hill, 2011. 
+4.  Peter Rob and Carlos Coronel, “Database Systems Design, Implementation and Management”,  
+      8th Edition, Thomson Learning, 2007. 
+5.  Sharaman Shah, “Oracle for Professional”, SPD, 2008. 
+6.  Dr. P.S. Deshpande , “ SQL &PLSQL for oracle” Black Book, 2007. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+MEC3 
+
+Industrial and 
+
+Organizational Psychology 
+
+ 
+ 
+
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+2 
+
+T 
+- 
+
+P 
+- 
+
+L 
+2 
+
+T 
+- 
+
+P 
+- 
+
+Total 
+
+2 
+
+ISE1  
+
+20 
+
+ 
+
+Examination Scheme 
+ISE2 
+
+Attendance  Total Marks 
+
+20 
+
+10 
+
+50 
+
+Pre-requisite Course Codes 
+
+--- 
+
+CO1 
+
+Course 
+
+CO2 
+
+Objectives 
+
+CO3 
+
+To impart knowledge and understanding of the basic concepts in and 
+various facets of Industrial and Organizational Psychology   
+To create awareness about the role and importance of Psychological factors 
+and processes in the world of work 
+To create a foundation for higher education and a professional career in 
+Industrial Psychology and Organizational Behavior 
+
+ 
+
+Module 
+No. 
+1 
+
+Unit 
+No. 
+ 
+
+Topics 
+
+Theories of Employee Motivation 
+
+1.1  What is motivation? Work motivation theories, need theories 
+1.2  Other Theories - Reinforcement theory, expectancy theory and self-
+
+efficacy theory; Justice theories, goal-setting theory, control theory and 
+action theory  
+Feelings about Work: Job Attitudes and Emotions 
+
+ 
+
+2.1  The nature of job satisfaction; how people feel about their jobs; the 
+
+assessment and antecedents of job satisfaction 
+
+2.2  Potential effects of job satisfaction; organizational commitment and  
+
+emotions at  work 
+Productive and Counterproductive Work Behavior 
+
+ 
+
+3.1  Productive work behavior: ability, motivation, personal characteristics 
+and task performance; environmental conditions and task performance; 
+organizational constraints; organizational citizenship behavior (OCB) 
+
+3.2  Counterproductive  work  behavior:  withdrawal  –  absence,  lateness, 
+
+turnover; aggression, sabotage, and theft; labor unrest and strikes. 
+Leadership and Power in Organizations                                 
+4.1  What is leadership? Sources of influence and power; abuse of 
+
+ 
+
+supervisory power: sexual and ethnic harassment 
+
+4.2  Approaches to the understanding of leadership; women in leadership 
+
+positions; cross-cultural issues in leadership 
+Organizational Development and Theory                                
+
+ 
+
+5.1  Organizational Development 
+5.2  Organizational Theories 
+
+2 
+ 
+
+3. 
+ 
+
+4. 
+ 
+
+ 
+
+5. 
+ 
+ 
+
+ 
+
+ 
+
+Ref.  Hrs. 
+
+1, 2  05 
+
+07 
+
+1,2 
+ 
+
+1,2 
+
+05 
+
+1,2 
+
+1,2 
+
+06 
+ 
+ 
+ 
+
+05 
+ 
+ 
+
+Total  28 
+
+71 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+ 
+
+Recommended Books: 
+
+ 
+
+1.  Spector, P. E. (2012). Industrial and Organizational Psychology: Research and Practice.  
+     Singapore: John Wiley & Sons Pte.  Ltd. (Indian reprint 2015) 
+2.  Schultz, D., & Schultz, S. E. (2010). Psychology and Work Today.(10th ed.). Pearson Prentice  
+     Hall 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+72 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+Course 
+Code 
+
+Course Name 
+
+MEC4 
+
+Law for Engineers 
+
+ 
+
+Pre-requisite Course Codes 
+
+--- 
+
+ 
+ 
+Teaching Scheme 
+
+(Hrs/week) 
+
+Credits Assigned 
+
+L 
+2 
+
+T 
+- 
+
+P 
+- 
+
+T 
+- 
+Examination Scheme 
+
+L 
+2 
+
+ISE1  
+
+ISE2 
+
+Attendance 
+
+20 
+
+20 
+
+10 
+
+P 
+- 
+
+Total 
+
+2 
+
+Total 
+Marks 
+
+50 
+
+CO1 
+
+Course 
+
+Outcomes 
+
+CO2 
+
+Student  will  be  able  to  recognize  the  importance  of  the  legal  system,  and 
+the controls it exerts on the activities of engineers in practice. 
+Student  will  be  able  to  express  the  details  of  what  the  individual‟s 
+responsibilities are to ensure legal behaviour in engineering practice. 
+
+ 
+This    course    is    a    survey    of    legal    topics    relevant    to    engineers,    including    basic    of    legal  
+system,    labor    law,    intellectual  property,  torts,  and  contracts.  This  is  an  introductory  course, 
+emphasizes on legal principles that can provide engineers with the ability to recognize legal issues 
+that are likely to arise in the engineering profession. 
+
+Module 
+No. 
+1 
+ 
+
+2 
+
+3 
+
+ 
+
+Topics 
+
+Unit 
+No. 
+1.1  General Principles of Contract under Indian Contract Act, 1872. 
+1.2 
+
+Introduction to Human Rights. 
+Enforcement  of  Human  Rights  in  India  including  Supreme  Court, 
+High  Courts,  Statutory  Commissions–  NHRC,  NCW,  NCM,  NC-
+SC/ST etc. 
+
+2.1  Right  to  Information  Act,  2005:  Evolution  and  concept;  Practice 
+and  procedures;  Official  Secret  Act,  1923;  Indian  Evidence  Act, 
+1872. 
+Information  Technology– 
+crimes – issues and investigations. 
+
+legislation  and  procedures,  Cyber 
+
+2.2 
+
+3.1  Labor Laws: Industrial Disputes Act, 1947; Collective bargaining; 
+Industrial  Employment  (Standing  Orders)  Act,  1946;  Workmens 
+Compensation Act, 1923. 
+
+3.2  Apprentices Act, 1961. 
+
+Bonded Labor System (Abolition) Act, 1976. 
+Child Labor (Prohibition and Regulation) Act, 1986. 
+Contract Labor (Regulation and Abolition) Act, 1970. 
+
+Ref.  Hrs. 
+
+4 
+
+4 
+
+12 
+
+1 
+1 
+
+1 
+
+1 
+
+1 
+
+2,3 
+
+3.3  Employees' Provident Funds and [Miscellaneous Provisions] Act, 
+
+2,3 
+
+1952. 
+Employees' State Insurance Act, 1948. 
+Equal Remuneration Act, 1976. 
+Factories Act, 1948. 
+
+73 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+Fatal Accidents Act, 1855. 
+Industries (Development and Regulation) Act, 1951. 
+Maternity Benefit Act, 1961. 
+Minimum Wages Act, 1948. 
+Payment of Bonus Act, 1965. 
+Payment of Gratuity Act, 1972. 
+Payment of Wages Act, 1936. 
+Trade Unions Act, 1926. 
+
+4 
+
+4.1  Law relating to Intellectual property 
+
+1 
+
+4 
+
+Law relating to Copyright in India. 
+Law relating to Trademarks under Trademark Act, 1999. 
+Law relating to Patents under Patents Act, 1970. 
+
+5.1  Corporate  Law:  Meaning  of  corporation;  Law  relating 
+
+to 
+companies,  public  and  private  (Companies  Act,  1956)  general 
+provisions; Law and multinational companies – International norms 
+for control, FEMA 1999, Corporate liability, civil and criminal. 
+Election  provisions  under  Indian  Constitution  (Art.324–329): 
+Representation  of  Peoples  Act  and  Prevention  of  Corruption  Act, 
+1988;  
+
+1 
+
+4 
+
+Total  28 
+
+5 
+
+ 
+
+ 
+
+ 
+Recommended Books: 
+ 
+1.  Nikita Agarawal and Rishi Kumar, “Laws for Engineers,” Genius Publications. 
+2.  P. L. Malik Handbook of Labour and Industrial Law, Eastern Book Company 
+3.  Industrial labour and general laws, The Institute of Company Secretaries of India 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+74 
+
+Sardar Patel Institute of Technology 
+Bhavan‟s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India 
+
+(Autonomous Institute Affiliated to University of Mumbai) 
+
+ 
+ 
+
+‘Activity Based Learning’ 
+
+ABL4: Technical Paper and Patent Drafting 
+
+This is non-credit activity conducted in semester VI for all the branches of engineering. This course 
+aims to encourage students to study advancement in engineering developments, prepare a technical 
+paper  based  on  the  research  topic  and  give  holistic  insight  on  the  various  aspects  of  patents  that 
+would be relevant to them. Attendance and participation are an integral part of the course 
+
+A. Technical Paper Drafting: 
+
+Invited talks and workshop on latex shall be conducted to impart the knowledge in technical  paper 
+drafting and presentation. 
+
+ The primary learning outcomes expected are: 
+
+  Knowledge about importance of paper publication 
+
+  Key parts of a technical paper and drafting related issues 
+
+  Submission and review process of paper 
+
+  Paper presentation related issues 
+
+  Ethical issues  
+
+Students  will  have  to  give  the  presentation  of  the  topics  and  submit  the  technical  paper  based  on 
+IEEE  format.  Students  are  expected  to  prepare  and  present  a  topic  on  engineering/ technology,  for 
+the duration of about 8 to 10 minutes. Group of two or three students will present the topic and will 
+submit  the  technical  paper  based  on  the  topic.  Each  student  will  be  evaluated  based  on  the 
+presentation and draft of technical paper. 
+
+B. Patent Drafting: 
+
+Invited talks and workshop shall be conducted to impart the knowledge in patent drafting. 
+
+The primary learning outcomes expected are: 
+
+  Knowledge about Intellectual Property & Patents 
+
+  Patent Searching 
+
+  Patent Drafting 
+
+  Patent Commercialization & Case Studies 
+
+ 
+
+ 
+
+75 
+
+
