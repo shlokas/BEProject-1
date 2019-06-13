@@ -10,6 +10,7 @@ import { CourseComponent } from "./course/course.component";
 import { AddCourseComponent } from "./add-course/add-course.component";
 import { TeacherDashComponent } from "./teacher-dash/teacher-dash.component";
 import { AppRouting } from "./app.routing";
+import { ApiService } from "./shared/api.service";
 
 @NgModule({
   declarations: [
@@ -21,7 +22,7 @@ import { AppRouting } from "./app.routing";
     TeacherDashComponent
   ],
   imports: [BrowserModule, FormsModule, HttpClientModule, AppRouting],
-  providers: [],
+  providers: [ApiService],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

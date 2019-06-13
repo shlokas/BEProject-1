@@ -13,6 +13,7 @@ const appRoutes: Routes = [
   { path: "teacher/1/add_course", component: AddCourseComponent },
 
   { path: "student/2", component: StudentDashComponent },
+  { path: "student/2/course_no", component: CourseComponent },
 
   { path: "", redirectTo: "student/2", pathMatch: "full" }
 ];
