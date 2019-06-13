@@ -1,7 +1,5 @@
-const User = require('../models/user.model');
-var mongo = require('mongodb');
 var conn = require('../dbConn');
-
+const JSON = require('circular-json')
 
 
 // function getNextSequenceValue(db, name) {
@@ -21,7 +19,7 @@ var conn = require('../dbConn');
 
 exports.getSubjects = (req, res) => {
     var subject_code = req.body.subject_code;
-    conn.collection('summaries').find().toArray(function (err, document) {
+    conn.collection('summaries').distinct("subject", function (err, document) {
         if (err) {
 
         } else {
@@ -29,6 +27,23 @@ exports.getSubjects = (req, res) => {
             res.send(document);
         }
     });
+}
+
+exports.getSummaries = (req, res) => {
+    var subject = req.body;
+    const obj = {
+        subject: req.body.subject
+    };
+    console.log(subject);
+    conn.collection('summaries').find(obj).toArray(function (err, document) {
+        if (err) {
+
+        } else {
+            console.log(document)
+            res.send(JSON.stringify(document));
+        }
+    });
+
 }
 // exports.makeRequest = (req, res) => {
 
