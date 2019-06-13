@@ -11,6 +11,7 @@ import { AddCourseComponent } from "./add-course/add-course.component";
 import { TeacherDashComponent } from "./teacher-dash/teacher-dash.component";
 import { AppRouting } from "./app.routing";
 import { ApiService } from "./shared/api.service";
+import { TopicComponent } from './course/topic/topic.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ApiService } from "./shared/api.service";
     CourseComponent,
     AddCourseComponent,
     FileSelectDirective,
-    TeacherDashComponent
+    TeacherDashComponent,
+    TopicComponent
   ],
   imports: [BrowserModule, FormsModule, HttpClientModule, AppRouting],
   providers: [ApiService],

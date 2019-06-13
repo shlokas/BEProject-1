@@ -1,4 +1,4 @@
-import { Injectable } from "@angular/core";
+import { Injectable, EventEmitter, Output } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 
 const URL = "http://localhost:8080/summary/";
@@ -8,8 +8,10 @@ const URL = "http://localhost:8080/summary/";
 })
 export class ApiService {
   constructor(private http: HttpClient) {}
-
+  summ = new EventEmitter<any>();
   getSubjects() {
     return this.http.get(URL + "subjects").map(res => console.log(res));
   }
+  public book: any;
+  public topic: any;
 }

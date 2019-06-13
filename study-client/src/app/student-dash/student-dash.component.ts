@@ -24,6 +24,7 @@ export class StudentDashComponent implements OnInit {
       console.log(res[0]);
       this.Subjects = res;
     });
+    // console.log(this.Subjects);
   }
   openCourse() {
     this.router.navigate(["course_no"], {

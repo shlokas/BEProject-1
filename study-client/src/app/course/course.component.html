@@ -1,9 +1,37 @@
 <div class="container">
   <br />
-  <h4>Course Name</h4>
-  <h5>Uploaded references</h5>
-  <ul class="list-group">
+  <h3>Software Engineering</h3>
+  <!-- <h5>Uploaded references</h5>
+   <ul class="list-group">
     <li class="list-group-item">Uploaded file</li>
     <li class="list-group-item">Uploaded file</li>
-  </ul>
+  </ul> -->
+  <hr />
+
+  <div *ngFor="let summary of summaries">
+    <h5>
+      <strong>{{ summary.subtopic }}</strong>
+    </h5>
+
+    <div style="display: inline-flex; margin-top: 10px;margin-bottom: 20px">
+      <div *ngFor="let book of sortAccounts(summary.summary, 'rating')">
+        <div
+          (click)="openSummary(summary.subtopic, book)"
+          class="card mr-3"
+          style="width: 25em; height: 7em"
+        >
+          <div class="card-body">
+            <h6 class="card-title">{{ book.book_name }}</h6>
+            <!-- <h6 class="card-text mb-2 text-muted">Card subtitle</h6> -->
+            <!-- <br /> -->
+            <p class="card-subtitle text-muted">{{ book.rating }}</p>
+            <!-- <a href="#" class="card-link">Card link</a> -->
+            <!-- <a href="#" class="card-link">Another link</a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <hr />
+  </div>
 </div>
