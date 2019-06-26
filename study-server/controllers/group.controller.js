@@ -36,7 +36,7 @@ exports.createGroup = (req, res) => {
 }
 
 exports.addMembers = (req, res) => {
-    const groupID = req.body._id;
+    const groupID = req.body.groupID;
     console.log(groupID)
     const newMembers = req.body.newMembers;
     const existing = {
@@ -55,12 +55,68 @@ exports.addMembers = (req, res) => {
             res.send(result);
         }
     })
-    // conn.collection('groups').findOne(existing, function (err, document) {
-    //     if (err) {
 
-    //     } else {
-    //         console.log(document);
-    //         res.send(document);
-    //     }
-    // });
 }
+
+exports.addPost = (req, res) => {
+    const groupID = ObjectId(req.body.groupID);
+    const obj = {
+        groupID: groupID,
+        question: req.body.question,
+        author: req.body.author,
+        answers: []
+    }
+    conn.collection("posts").insertOne(obj, function (err, result) {
+        if (err) {
+
+        } else {
+            res.send(result);
+        }
+    })
+}
+
+
+exports.addAnswer = (req, res) => {
+    const questionID = ObjectId(req.body.questionID);
+    const existing = {
+        _id: questionID
+    };
+    const post = {
+        $push: {
+            answers: req.body.answer
+        }
+    }
+    conn.collection("posts").updateOne(existing, post, function (err, result) {
+        if (err) {
+
+        } else {
+            res.send(result);
+        }
+    })
+}
+
+exports.getPosts = (req, res) => {
+    const groupID = ObjectId(req.body.groupID);
+    const obj = {
+        groupID: groupID
+    };
+    conn.collection('posts').find(obj).toArray(function (err, document) {
+        if (err) {
+
+        } else {
+            console.log(document);
+            res.send(document);
+        }
+    });   
+}
+
+
+// const post = {
+//         $push: {
+//             posts: {
+//                 question: req.body.question,
+//                 answers: []
+
+//             }
+//         }
+//     }
