@@ -5,6 +5,7 @@ var cors = require('cors');
 const userRouter = require("./routes/user.routes");
 const requestRouter = require("./routes/request.routes")
 const summaryRouter = require('./routes/summary.routes')
+const groupRouter = require("./routes/group.routes")
 const bodyParser = require('body-parser');
 const app = express();
 
@@ -29,6 +30,7 @@ app.get('/', function (req, res) {
 app.use('/user', userRouter);
 app.use('/request', requestRouter)
 app.use('/summary', summaryRouter)
+app.use('/groups', groupRouter)
 
 // app.get('/data', function (req, res) {
 //     console.log('/data');
