@@ -76,6 +76,7 @@ exports.addPost = (req, res) => {
         if (err) {
 
         } else {
+            console.log(result)
             res.json("Successful");
         }
     })
