@@ -1,0 +1,51 @@
+<div class="container">
+  <br />
+  <div>
+    <h5>Discussion Forum</h5>
+    <hr />
+    <div class="p-2 bg-light" *ngFor="let post of Posts">
+      <p class="p-2 bg-secondary mb-0 text-white">
+        Question: {{ post.question }}
+      </p>
+      <p class="p-2  mb-0">By: {{ post.author }}</p>
+
+      <div *ngFor="let answer of post.answers">
+        <p class="p-2  mb-0 border-bottom border-secondary text-secondary">
+          A: {{ answer }}
+        </p>
+      </div>
+      <br />
+      <form #addAnswer="ngForm" (ngSubmit)="addNewAnswer(addAnswer, post._id)">
+        <input
+          class="form-control"
+          type="textarea"
+          ngModel
+          name="answer"
+          id="answer"
+          placeholder="Add your answer here"
+        />
+        <br />
+        <button type="submit" class="btn btn-success pull-right">
+          Submit Answer
+        </button>
+      </form>
+      <br />
+      <br />
+    </div>
+    <br />
+    <form #newPost="ngForm" (ngSubmit)="addNewPost(newPost)">
+      <input
+        class="form-control"
+        type="textarea"
+        ngModel
+        name="question"
+        id="question"
+        style="width: 90%;  margin: 0 auto"
+        placeholder="Post your own question here."
+      />
+      <br />
+      <button class="btn btn-primary pull-right" type="submit">Post</button>
+    </form>
+    <br />
+  </div>
+</div>

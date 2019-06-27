@@ -12,6 +12,8 @@ import { TeacherDashComponent } from "./teacher-dash/teacher-dash.component";
 import { AppRouting } from "./app.routing";
 import { ApiService } from "./shared/api.service";
 import { TopicComponent } from './course/topic/topic.component';
+import { GroupComponent } from './student-dash/group/group.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { TopicComponent } from './course/topic/topic.component';
     AddCourseComponent,
     FileSelectDirective,
     TeacherDashComponent,
-    TopicComponent
+    TopicComponent,
+    GroupComponent,
+    LoginComponent
   ],
   imports: [BrowserModule, FormsModule, HttpClientModule, AppRouting],
   providers: [ApiService],

@@ -1,0 +1,16 @@
+<div class="login">
+  <form #login="ngForm" class="login-form" (ngSubmit)="loggingIn(login)">
+    <input
+      type="text"
+      ngModel
+      style="width:100%"
+      name="username"
+      id="username"
+      class="form-control"
+      placeholder="Enter Username"
+    />
+    <br />
+
+    <button type="submit" class="btn btn-success btn-block">Login</button>
+  </form>
+</div>

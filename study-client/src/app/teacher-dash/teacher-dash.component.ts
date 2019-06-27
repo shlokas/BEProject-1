@@ -15,7 +15,7 @@ export class TeacherDashComponent implements OnInit {
     private router: Router,
     private activeRoute: ActivatedRoute
   ) {}
-  Subjects: [] = [];
+  Subjects: [];
   ngOnInit() {
     this.http.get(URL + "subjects").subscribe((res: any) => {
       console.log(res[0]);

@@ -28,7 +28,7 @@ export class CourseComponent implements OnInit {
       });
   }
 
-  sortAccounts(arr: [], prop: number) {
+  sortAccounts(arr, prop: number) {
     const sorted = arr.sort((a, b) =>
       a[prop] > b[prop] ? -1 : a[prop] === b[prop] ? 0 : 1
     );
