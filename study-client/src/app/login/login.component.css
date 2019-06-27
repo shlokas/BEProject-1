@@ -1,0 +1,13 @@
+.login {
+  background-image: url("../../assets/bg.jpeg");
+  /* background: red; */
+  height: 100vh;
+}
+
+.login-form {
+  padding: 10px;
+  background: rgba(218, 210, 210, 0.8);
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
