@@ -13,9 +13,13 @@ exports.getUsersForGroup = (req, res) => {
 }
 
 exports.createGroup = (req, res) => {
-    const admin = req.body.admin;
-    const members = req.body.members;
+    const admin = ObjectId(req.body.admin);
+    const memArray = req.body.members.toString().split(",");
     // const memArray = members.toString().split(",");
+    var members = [];
+    for(var i = 0 ; i <memArray.length;i++) {
+        members.push(ObjectId(memArray[i]))
+    }
     const ts = Date.now();
     // console.log(memArray)
     const name = req.body.name;
@@ -30,7 +34,7 @@ exports.createGroup = (req, res) => {
         if (err) {
 
         } else {
-            res.send(obj);
+            res.json("Successful");
         }
     })
 }
@@ -39,20 +43,22 @@ exports.addMembers = (req, res) => {
     const groupID = req.body.groupID;
     console.log(groupID)
     const newMembers = req.body.newMembers;
+    const memArray = newMembers.toString().split(",");
+
     const existing = {
         _id: ObjectId(groupID)
     };
     console.log(existing)
     const obj = {
         $set: {
-            members: newMembers
+            members: memArray
         }
     }
     conn.collection("groups").updateOne(existing, obj, function (err, result) {
         if (err) {
 
         } else {
-            res.send(result);
+            res.json("Successful");
         }
     })
 
@@ -70,7 +76,7 @@ exports.addPost = (req, res) => {
         if (err) {
 
         } else {
-            res.send(result);
+            res.json("Successful");
         }
     })
 }
@@ -90,7 +96,7 @@ exports.addAnswer = (req, res) => {
         if (err) {
 
         } else {
-            res.send(result);
+            res.json("Successful");
         }
     })
 }
@@ -110,7 +116,24 @@ exports.getPosts = (req, res) => {
     });   
 }
 
+exports.getGroups = (req, res) => {
+    const userID = ObjectId(req.body.userID);
+    const obj = {
+        members: userID
+    };
+    conn.collection('groups').find(obj).toArray(function (err, document) {
+        if (err) {
 
+        } else {
+            console.log(document);
+            res.send(document);
+        }
+    });   
+}
+
+exports.getGroupDetails = (req, res) => {
+
+}
 // const post = {
 //         $push: {
 //             posts: {
