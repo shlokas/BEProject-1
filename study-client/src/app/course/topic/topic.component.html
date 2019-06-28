@@ -9,4 +9,11 @@
   <!-- <p>Summary:</p> -->
   <hr />
   <p>{{ book.summary }}</p>
+  <br />
+  <strong>Questions</strong>
+  <hr />
+
+  <div *ngFor="let q of quest">
+    <p>{{ q }}</p>
+  </div>
 </div>

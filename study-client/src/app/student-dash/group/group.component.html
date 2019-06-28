@@ -1,13 +1,21 @@
 <div class="container">
   <br />
   <div>
+    <h5>Resources Shared</h5>
+    <hr />
+
+    <app-doc-sharing></app-doc-sharing>
+  </div>
+  <br />
+  <br />
+  <div>
     <h5>Discussion Forum</h5>
     <hr />
     <div class="p-2 bg-light" *ngFor="let post of Posts">
       <p class="p-2 bg-secondary mb-0 text-white">
         Question: {{ post.question }}
       </p>
-      <p class="p-2  mb-0">By: {{ post.author }}</p>
+      <!-- <p class="p-2  mb-0">By: {{ post.author }}</p> -->
 
       <div *ngFor="let answer of post.answers">
         <p class="p-2  mb-0 border-bottom border-secondary text-secondary">

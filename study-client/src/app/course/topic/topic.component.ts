@@ -11,9 +11,11 @@ export class TopicComponent implements OnInit {
 
   book: any = [];
   topic: any;
+  quest: any;
   ngOnInit() {
     this.book = this.apiserv.book;
     this.topic = this.apiserv.topic;
+    this.quest = this.apiserv.questions;
     console.log(this.book);
   }
 }

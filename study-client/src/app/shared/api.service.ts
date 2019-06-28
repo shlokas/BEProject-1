@@ -14,4 +14,5 @@ export class ApiService {
   }
   public book: any;
   public topic: any;
+  public questions: any;
 }
