@@ -5,6 +5,8 @@ import {
   Validators,
   ReactiveFormsModule
 } from "@angular/forms";
+import { HttpClient } from "@angular/common/http";
+import { ActivatedRoute, Params } from "@angular/router";
 
 @Component({
   selector: "app-doc-sharing",
@@ -15,11 +17,20 @@ export class DocSharingComponent implements OnInit {
   form: FormGroup;
   loading: boolean = false;
   files = [];
+  grpId;
+
 
   @ViewChild("fileInput") fileInput: ElementRef;
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: FormBuilder, private http: HttpClient, private route:ActivatedRoute) {
     this.createForm();
+    this.route.params.subscribe((par: Params) => {
+      this.grpId = par['gid'];
+      
+    })
+    this.http.post("http://localhost:8080/docs/retrieve", {groupID: this.grpId}).subscribe((res:any) => {
+      this.files = res
+    })
   }
 
   createForm() {
@@ -53,6 +64,7 @@ export class DocSharingComponent implements OnInit {
     this.loading = true;
     // In a real-world app you'd have a http request / service call here like
     // this.http.post('apiUrl', formModel)
+    this.http.post("http://localhost:8080/docs/upload", {groupID: this.grpId, filename: formModel.avatar.filename, content: formModel.avatar.value}).subscribe((res:any) => {console.log(res)})
     this.files.push({ filename: formModel.name, file: formModel.avatar.value });
     setTimeout(() => {
       console.log(formModel);

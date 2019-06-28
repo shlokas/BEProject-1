@@ -69,7 +69,7 @@ exports.uploadFile = (req, res) => {
         filename: req.body.filename,
         content: req.body.content
     }
-    conn.collection("groups").insertOne(obj, function (err, result) {
+    conn.collection("files").insertOne(obj, function (err, result) {
         if (err) {
 
         } else {
@@ -82,7 +82,7 @@ exports.getFiles = (req, res) => {
     const obj = {
         groupID: req.body.groupID
     }
-    conn.collection("groups").find(obj).toArray(function (err, result) {
+    conn.collection("files").find(obj).toArray(function (err, result) {
         if (err) {
 
         } else {

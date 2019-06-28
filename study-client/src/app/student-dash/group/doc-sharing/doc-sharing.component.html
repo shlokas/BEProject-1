@@ -10,7 +10,7 @@
           *ngFor="let file of files"
           type="button"
           class="btn mr-2 "
-          (click)="showPdf(file.file)"
+          (click)="showPdf(file.content)"
         >
           {{ file.filename }}
         </button>
