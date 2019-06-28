@@ -24,7 +24,7 @@ export class CourseComponent implements OnInit {
       .subscribe((res: any) => {
         Summaries = res;
         this.summaries = res;
-        console.log(Summaries[0].summary[0]);
+        console.log(Summaries);
       });
   }
 
@@ -39,10 +39,11 @@ export class CourseComponent implements OnInit {
     return sorted;
   }
 
-  openSummary(top, book) {
+  openSummary(top, book, quest) {
     // this.apis.summ.emit(book);
     this.apis.book = book;
     this.apis.topic = top;
+    this.apis.questions = quest;
     this.router.navigate(["summary"], { relativeTo: this.actRoute });
   }
 }

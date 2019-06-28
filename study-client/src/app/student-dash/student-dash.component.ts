@@ -13,11 +13,11 @@ const URL = "http://localhost:8080/";
   styleUrls: ["./student-dash.component.css"]
 })
 export class StudentDashComponent implements OnInit {
-  Subjects?: [] = [];
+  Subjects;
   isCreateAGroup: boolean = false;
-  listOfUsers: [];
+  listOfUsers;
   listOfMembers: string = "";
-  listOfGroup: [];
+  listOfGroup;
   constructor(
     private apis: ApiService,
     private http: HttpClient,
@@ -27,7 +27,7 @@ export class StudentDashComponent implements OnInit {
 
   ngOnInit() {
     this.http.get(URL + "summary/subjects").subscribe((res: any) => {
-      console.log(res[0]);
+      console.log(res);
       this.Subjects = res;
     });
 

@@ -16,7 +16,7 @@
     <div style="display: inline-flex; margin-top: 10px;margin-bottom: 20px">
       <div *ngFor="let book of sortAccounts(summary.summary, 'rating')">
         <div
-          (click)="openSummary(summary.subtopic, book)"
+          (click)="openSummary(summary.subtopic, book, summary.questions)"
           class="card mr-3"
           style="width: 25em; height: 7em"
         >

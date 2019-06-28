@@ -1,0 +1,49 @@
+<div *ngIf="files.length == 0" class="bg-light p-1">
+  <p class="text-muted">No documents shared yet!</p>
+</div>
+
+<div *ngIf="files.length != 0" #showdocs>
+  <div style="text-align:center">
+    <form>
+      <div class="form-row text-center">
+        <button
+          *ngFor="let file of files"
+          type="button"
+          class="btn mr-2 "
+          (click)="showPdf(file.file)"
+        >
+          {{ file.filename }}
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<br />
+
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <div class="form-group">
+    <label for="name">Add a File</label>
+    <input
+      type="text"
+      class="form-control"
+      id="name"
+      placeholder="Enter file name"
+      formControlName="name"
+    />
+  </div>
+  <div class="form-group">
+    <input type="file" id="avatar" (change)="onFileChange($event)" #fileInput />
+    <button type="button" class="btn btn-sm btn-default" (click)="clearFile()">
+      clear file
+    </button>
+  </div>
+  <button
+    type="submit"
+    [disabled]="form.invalid || loading"
+    class="btn btn-success"
+  >
+    Share <i class="fa fa-spinner fa-spin fa-fw" *ngIf="loading"></i>
+  </button>
+</form>
+<br />
