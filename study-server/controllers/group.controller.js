@@ -1,5 +1,16 @@
 var conn = require('../dbConn');
 var ObjectId = require('mongodb').ObjectID;
+var multer = require('multer')
+var GridFsStorage = require('multer-gridfs-storage')
+var Grid = require('gridfs-stream')
+var methodOverride = require('method-override')
+var mongoose = require('mongoose')
+let gfs;
+const mongoURI = "mongodb+srv://mihir:mihir@cluster0-rfpzz.gcp.mongodb.net/BEProject?retryWrites=true&w=majority"
+conn.once('open', () => {
+    gfs = Grid(conn.db, mongoose.mongo)
+    gfs.collection()
+})
 
 exports.getUsersForGroup = (req, res) => {
     conn.collection('users').find().toArray(function (err, document) {
@@ -17,7 +28,7 @@ exports.createGroup = (req, res) => {
     const memArray = req.body.members.toString().split(",");
     // const memArray = members.toString().split(",");
     var members = [];
-    for(var i = 0 ; i <memArray.length;i++) {
+    for (var i = 0; i < memArray.length; i++) {
         members.push(ObjectId(memArray[i]))
     }
     const ts = Date.now();
@@ -76,7 +87,7 @@ exports.addPost = (req, res) => {
         if (err) {
 
         } else {
-            console.log(result)
+
             res.json("Successful");
         }
     })
@@ -114,7 +125,7 @@ exports.getPosts = (req, res) => {
             console.log(document);
             res.send(document);
         }
-    });   
+    });
 }
 
 exports.getGroups = (req, res) => {
@@ -129,12 +140,35 @@ exports.getGroups = (req, res) => {
             console.log(document);
             res.send(document);
         }
-    });   
+    });
 }
 
 exports.getGroupDetails = (req, res) => {
 
 }
+
+function storage(groupID) {
+    return new GridFsStorage({
+        url: mongoURI,
+        file: (req, file) => {
+            return new Promise((resolve, reject) => {
+
+                const filename = groupID.toString() + "~" + Date.now.toString() + path.extname(file.originalname);
+                const fileInfo = {
+                    filename: filename,
+                    bucketName: 'uploads'
+                };
+                resolve(fileInfo);
+            });
+        }
+    });
+}
+const upload = multer({ storage });
+exports.addDoc = (req, res) => {
+
+}
+
+
 // const post = {
 //         $push: {
 //             posts: {

@@ -58,6 +58,9 @@ app.post("/upload", upload.array("uploads[]", 12), function(req, res) {
   console.log("files", req.files);
   res.send(req.files);
 });
+app.get('/', function(req, res){
+  res.json("Connected")
+})
 
 var server = app.listen(port, function() {
   console.log("Listening on port %s...", port);
